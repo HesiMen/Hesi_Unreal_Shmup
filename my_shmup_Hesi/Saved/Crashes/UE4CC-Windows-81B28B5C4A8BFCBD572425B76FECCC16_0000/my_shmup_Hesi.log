@@ -1,0 +1,1389 @@
+﻿Log file open, 09/14/18 18:57:59
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: my_shmup_Hesi
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-973185253) SRandInit(-973185253).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 6.100846
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  3.369s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-A808GEO (192.168.0.3:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: F:/Games/Epic/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.004s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.09.15-01.58.03:365][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.15-01.58.03:365][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.09.15-01.58.03:424][  0]LogInit: Computer: DESKTOP-A808GEO
+[2018.09.15-01.58.03:424][  0]LogInit: User: Hesi
+[2018.09.15-01.58.03:424][  0]LogInit: CPU Page size=4096, Cores=6
+[2018.09.15-01.58.03:424][  0]LogInit: High frequency timer resolution =3.609374 MHz
+[2018.09.15-01.58.03:424][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.09.15-01.58.03:424][  0]LogMemory: Platform Memory Stats for Windows
+[2018.09.15-01.58.03:424][  0]LogMemory: Process Physical Memory: 274.71 MB used, 274.71 MB peak
+[2018.09.15-01.58.03:424][  0]LogMemory: Process Virtual Memory: 271.54 MB used, 271.54 MB peak
+[2018.09.15-01.58.03:424][  0]LogMemory: Physical Memory: 8252.66 MB used,  8055.75 MB free, 16308.41 MB total
+[2018.09.15-01.58.03:424][  0]LogMemory: Virtual Memory: 4811.14 MB used,  8055.75 MB free, 134217728.00 MB total
+[2018.09.15-01.58.05:296][  0]LogInit: Using OS detected language (en-US).
+[2018.09.15-01.58.05:296][  0]LogInit: Using OS detected locale (en-US).
+[2018.09.15-01.58.05:985][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.09.15-01.58.07:110][  0]LogStreaming: Display: Took  1.814s to EndInitTextLocalization.
+[2018.09.15-01.58.07:110][  0]LogInit: Setting process to per monitor DPI aware
+[2018.09.15-01.58.07:622][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.09.15-01.58.07:622][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.09.15-01.58.10:157][  0]LogD3D11RHI: D3D11 adapters:
+[2018.09.15-01.58.10:236][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.09.15-01.58.10:236][  0]LogD3D11RHI:       8079/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.09.15-01.58.10:238][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.09.15-01.58.10:238][  0]LogD3D11RHI:       0/0/8154 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.09.15-01.58.10:238][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.09.15-01.58.10:245][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.09.15-01.58.10:245][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.09.15-01.58.10:245][  0]LogWindows: EnumDisplayDevices:
+[2018.09.15-01.58.10:245][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2018.09.15-01.58.10:246][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.09.15-01.58.10:246][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.09.15-01.58.10:246][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.09.15-01.58.10:246][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.09.15-01.58.10:246][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.09.15-01.58.10:246][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.09.15-01.58.10:246][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.09.15-01.58.10:246][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2018.09.15-01.58.10:286][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.09.15-01.58.10:286][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.09.15-01.58.10:286][  0]LogD3D11RHI: Async texture creation enabled
+[2018.09.15-01.58.10:320][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.09.15-01.58.10:404][  0]LogShaderCompilers: Guid format shader working directory is -36 characters bigger than the processId version (C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Intermediate/Shaders/WorkingDirectory/25252/).
+[2018.09.15-01.58.10:404][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Hesi/AppData/Local/Temp/UnrealShaderWorkingDir/F6D3EC6B4F1478FB539EA6930A127942/'.
+[2018.09.15-01.58.11:944][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.09.15-01.58.11:956][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.09.15-01.58.11:967][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.09.15-01.58.11:981][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.09.15-01.58.12:017][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.09.15-01.58.12:028][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.09.15-01.58.12:040][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.09.15-01.58.12:053][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.09.15-01.58.12:059][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.09.15-01.58.12:072][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.09.15-01.58.12:083][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.09.15-01.58.12:094][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.09.15-01.58.12:106][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.09.15-01.58.12:118][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.09.15-01.58.12:129][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.09.15-01.58.12:157][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.09.15-01.58.12:157][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.09.15-01.58.12:184][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.15-01.58.12:186][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.09.15-01.58.12:327][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.15-01.58.12:374][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.15-01.58.12:389][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.09.15-01.58.12:399][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.09.15-01.58.12:409][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.09.15-01.58.12:424][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.09.15-01.58.12:425][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.09.15-01.58.14:189][  0]LogXGEController: Cleaning working directory: C:/Users/Hesi/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.09.15-01.58.14:189][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.09.15-01.58.14:189][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.09.15-01.58.14:189][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.09.15-01.58.17:185][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.09.15-01.58.17:489][  0]LogDerivedDataCache: Loaded boot cache 0.28s 74MB C:/Users/Hesi/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.09.15-01.58.17:489][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Hesi/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.09.15-01.58.17:489][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.15-01.58.17:489][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.09.15-01.58.17:489][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.09.15-01.58.17:489][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.09.15-01.58.17:592][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.09.15-01.58.17:631][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Hesi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.09.15-01.58.17:631][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.09.15-01.58.17:631][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.09.15-01.58.17:640][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.09.15-01.58.17:640][  0]LogSlate: Using Freetype 2.6.0
+[2018.09.15-01.58.17:692][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.15-01.58.17:692][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.15-01.58.24:578][  0]LogAssetRegistry: FAssetRegistry took 0.0263 seconds to start up
+[2018.09.15-01.58.24:924][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.15-01.58.27:939][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.09.15-01.58.28:007][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.09.15-01.58.28:042][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.09.15-01.58.28:049][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.09.15-01.58.28:049][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.09.15-01.58.28:049][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.09.15-01.58.28:510][  0]LogNetVersion: my_shmup_Hesi , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1922763221)
+[2018.09.15-01.58.34:070][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.100955 seconds
+[2018.09.15-01.58.34:075][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.09.15-01.58.34:075][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.09.15-01.58.34:075][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.15-01.58.53:010][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.15-01.58.53:039][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.15-01.58.53:696][  0]SourceControl: Source control is disabled
+[2018.09.15-01.58.53:696][  0]SourceControl: Source control is disabled
+[2018.09.15-01.58.53:708][  0]SourceControl: Source control is disabled
+[2018.09.15-01.58.53:719][  0]SourceControl: Source control is disabled
+[2018.09.15-01.58.54:302][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.09.15-01.58.54:524][  0]LogOcInput: OculusInput pre-init called
+[2018.09.15-01.58.54:752][  0]LogEngine: Initializing Engine...
+[2018.09.15-01.58.54:753][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.15-01.58.54:755][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.15-01.58.54:755][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.15-01.58.55:980][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.09.15-01.58.56:040][  0]LogInit: XAudio2 using 'Focusrite USB (Focusrite USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.15-01.58.56:091][  0]LogInit: FAudioDevice initialized.
+[2018.09.15-01.58.56:164][  0]LogDerivedDataCache: Saved boot cache 0.07s 74MB C:/Users/Hesi/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.09.15-01.58.56:177][  0]LogInit: Texture streaming: Enabled
+[2018.09.15-01.58.56:188][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.09.15-01.58.56:203][  0]LogInit: Transaction tracking system initialized
+[2018.09.15-01.58.56:270][  0]BlueprintLog: New page: Editor Load
+[2018.09.15-01.58.56:933][  0]LocalizationService: Localization service is disabled
+[2018.09.15-01.58.57:717][  0]LogConsoleResponse: Display: 
+[2018.09.15-01.59.02:281][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.09.15-01.59.02:281][  0]LogCook: Display: Mobile HDR setting 1
+[2018.09.15-01.59.02:281][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.15-01.59.02:281][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.15-01.59.02:281][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.15-01.59.03:107][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Content/' took 0.02s
+[2018.09.15-01.59.07:444][  0]SourceControl: Source control is disabled
+[2018.09.15-01.59.07:444][  0]Cmd: MAP LOAD FILE="C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Content/Maps/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.15-01.59.07:482][  0]LightingResults: New page: Lighting Build
+[2018.09.15-01.59.07:484][  0]MapCheck: New page: Map Check
+[2018.09.15-01.59.07:484][  0]LightingResults: New page: Lighting Build
+[2018.09.15-01.59.07:549][  0]LogAIModule: Creating AISystem for world Main
+[2018.09.15-01.59.07:668][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.15-01.59.07:676][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.15-01.59.07:711][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 34.022ms to complete.
+[2018.09.15-01.59.07:711][  0]LogFileHelpers: Loading map 'Main' took 0.266
+[2018.09.15-01.59.08:454][  0]LogCollectionManager: Loaded 0 collections in 0.001179 seconds
+[2018.09.15-01.59.08:547][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Saved/Collections/' took 0.01s
+[2018.09.15-01.59.08:547][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Content/Developers/Hesi/Collections/' took 0.01s
+[2018.09.15-01.59.08:547][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Content/Collections/' took 0.01s
+[2018.09.15-01.59.08:547][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.09.15-01.59.08:555][  0]LogContentBrowser: Native class hierarchy populated in 0.0071 seconds. Added 2452 classes and 558 folders.
+[2018.09.15-01.59.08:560][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.09.15-01.59.11:477][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.09.15-01.59.11:535][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2018.09.15-01.59.13:829][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.09.15-01.59.13:907][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.myshmupHesi
+[2018.09.15-01.59.13:907][  0]LogTemp: CWD: F:\Games\Epic\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.09.15-01.59.13:907][  0]LogTemp: Initial Dir: F:\Games\Epic\UE_4.19
+[2018.09.15-01.59.13:907][  0]LogTemp: Env CWD: F:\Games\Epic\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.09.15-01.59.13:907][  0]LogTemp: BranchPath = DESKTOP-A808GEO/F/Games/Epic/UE_4.19/Engine/Binaries --- GameBranchPath = DESKTOP-A808GEO/F/Games/Epic/UE_4.19/Engine/Binaries
+[2018.09.15-01.59.13:907][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Hesi\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.09.15-01.59.13:907][  0]LogSlate: Took 0.016818 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.15-01.59.13:945][  0]LogSlate: Took 0.035764 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.09.15-01.59.13:966][  0]LogSlate: Took 0.017368 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.09.15-01.59.14:254][  0]LogRenderer: Reallocating scene render targets to support 1616x812 Format 10 NumSamples 1 (Frame:1).
+[2018.09.15-01.59.14:385][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.09.15-01.59.14:385][  0]LogLoad: (Engine Initialization) Total time: 105.51 seconds
+[2018.09.15-01.59.14:385][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.15-01.59.14:750][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.09.15-01.59.15:086][  1]LogAssetRegistry: Asset discovery search completed in 50.5307 seconds
+[2018.09.15-01.59.15:088][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.09.15-01.59.15:088][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000061 seconds (updated 0 objects)
+[2018.09.15-01.59.15:815][  3]LogSlate: Took 0.087677 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.15-02.01.24:653][827]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.15-02.01.24:737][837]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.15-02.01.24:753][837]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.15-02.01.24:753][837]PIE: New page: PIE session: Main (Sep 14, 2018, 12:01:24 PM)
+[2018.09.15-02.01.24:753][837]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.09.15-02.01.24:754][837]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000968s)
+[2018.09.15-02.01.24:755][837]LogAIModule: Creating AISystem for world Main
+[2018.09.15-02.01.24:755][837]LogPlayLevel: PIE: World Init took: (0.000546s)
+[2018.09.15-02.01.24:755][837]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.001674s)
+[2018.09.15-02.01.24:785][837]LogInit: XAudio2 using 'Focusrite USB (Focusrite USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.15-02.01.24:790][837]LogInit: FAudioDevice initialized.
+[2018.09.15-02.01.24:892][837]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b40ac03900, Size=1344, Default__BP_Player_C Function /Game/Blueprints/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player
+[2018.09.15-02.01.24:922][837]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3c56b2cb8, Size=4, Default__BP_ProjectilePlayerBase_C Function /Game/Blueprints/Projectile_Folder/BP_ProjectilePlayerBase.BP_ProjectilePlayerBase_C:ExecuteUbergraph_BP_ProjectilePlayerBase
+[2018.09.15-02.01.24:968][837]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3c56b2cb8, Size=4
+[2018.09.15-02.01.24:968][837]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3c60980a0, Size=4, Default__BP_ProjectilePlayerBase_C Function /Engine/Transient.REINST_BP_ProjectilePlayerBase_C_1:ExecuteUbergraph_BP_ProjectilePlayerBase
+[2018.09.15-02.01.24:969][837]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b40ac03900, Size=1344
+[2018.09.15-02.01.24:969][837]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b38e504100, Size=1344, Default__BP_Player_C Function /Engine/Transient.REINST_BP_Player_C_2:ExecuteUbergraph_BP_Player
+[2018.09.15-02.01.24:976][837]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3c60990d8, Size=4, Default__BP_ProjectilePlayerBase_C Function /Game/Blueprints/Projectile_Folder/BP_ProjectilePlayerBase.BP_ProjectilePlayerBase_C:ExecuteUbergraph_BP_ProjectilePlayerBase
+[2018.09.15-02.01.24:978][837]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b38e4d0f00, Size=1344, Default__BP_Player_C Function /Game/Blueprints/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player
+[2018.09.15-02.01.25:046][837]LogLoad: Game class is 'BP_GameMode_C'
+[2018.09.15-02.01.25:049][837]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2018.09.14-19.01.25
+[2018.09.15-02.01.25:049][837]LogWorld: Bringing up level for play took: 0.000841
+[2018.09.15-02.01.25:052][837]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 11 classes and 0 folders.
+[2018.09.15-02.01.25:053][837]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.229
+[2018.09.15-02.01.30:944][534]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b38e504100, Size=1344
+[2018.09.15-02.01.30:944][534]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3c60980a0, Size=4
+[2018.09.15-02.08.45:570][955]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.15-02.09.55:561][808]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.09.15-02.09.56:294][808]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3924268d0, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.09.15-02.09.56:332][808]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3924268c8, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.09.15-02.09.58:547][808]LogMaterial: Missing cached shader map for material M_Glow, compiling. 
+[2018.09.15-02.09.59:819][808]LogMaterial: Missing cached shader map for material M_Glow, compiling. 
+[2018.09.15-02.09.59:876][808]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.15-02.09.59:876][808]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.15-02.09.59:876][808]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.15-02.09.59:876][808]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.15-02.09.59:876][808]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.15-02.09.59:876][808]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.15-02.09.59:876][808]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.15-02.09.59:876][808]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.15-02.09.59:877][808]LogMaterial: Missing cached shader map for material M_Glow, compiling. 
+[2018.09.15-02.09.59:950][808]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.09.15-02.10.04:949][808]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b43e7082d8, Size=4, Default__BP_ProjectilePlayerPrimary_C Function /Game/Blueprints/Projectile_Folder/BP_ProjectilePlayerBase.BP_ProjectilePlayerBase_C:ExecuteUbergraph_BP_ProjectilePlayerBase
+[2018.09.15-02.10.04:969][808]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b43e7082d8, Size=4
+[2018.09.15-02.10.04:969][808]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b43e7082d8, Size=4, Default__BP_ProjectilePlayerPrimary_C Function /Game/Blueprints/Projectile_Folder/BP_ProjectilePlayerBase.BP_ProjectilePlayerBase_C:ExecuteUbergraph_BP_ProjectilePlayerBase
+[2018.09.15-02.10.04:970][808]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b43e7082a8, Size=4, Default__BP_ProjectilePlayerPrimary_C Function /Game/Blueprints/Projectile_Folder/BP_ProjectilePlayerBase.BP_ProjectilePlayerBase_C:ExecuteUbergraph_BP_ProjectilePlayerBase
+[2018.09.15-02.10.07:491][902]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.09.15-02.10.07:491][902]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.09.15-02.10.07:491][902]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.09.15-02.10.07:491][902]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.09.15-02.10.07:491][902]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.09.15-02.10.07:491][902]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.09.15-02.10.07:491][902]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.15-02.10.07:491][902]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.09.15-02.10.07:810][908]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.09.15-02.10.07:810][908]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.09.15-02.10.07:810][908]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.09.15-02.10.07:810][908]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.09.15-02.10.07:810][908]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.09.15-02.10.07:810][908]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.09.15-02.10.07:810][908]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.09.15-02.10.07:860][910]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.09.15-02.10.07:997][923]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.15-02.10.07:997][923]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.09.15-02.10.08:191][939]MaterialEditorStats: Base pass shader: 105 instructions
+[2018.09.15-02.10.08:191][939]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 179 instructions
+[2018.09.15-02.10.08:191][939]MaterialEditorStats: Vertex shader: 34 instructions
+[2018.09.15-02.10.08:191][939]MaterialEditorStats: Texture samplers: 2/16
+[2018.09.15-02.10.09:420][ 36]LogSlate: Took 0.027489 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.09.15-02.10.10:345][ 37]LogSlate: Took 0.030834 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.09.15-02.11.54:284][629]LogRenderer: Reallocating scene render targets to support 1664x1260 Format 10 NumSamples 1 (Frame:1).
+[2018.09.15-02.12.38:709][890]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.15-02.12.39:338][891]LogRenderer: Reallocating scene render targets to support 1912x1284 Format 10 NumSamples 1 (Frame:1).
+[2018.09.15-02.12.40:426][990]LogRenderer: Reallocating scene render targets to support 2072x1284 Format 10 NumSamples 1 (Frame:1).
+[2018.09.15-02.12.55:154][640]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b42054f738, Size=4, Default__BP_ProjectilePlayerSecondary_C Function /Game/Blueprints/Projectile_Folder/BP_ProjectilePlayerBase.BP_ProjectilePlayerBase_C:ExecuteUbergraph_BP_ProjectilePlayerBase
+[2018.09.15-02.12.55:154][640]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b42054f738, Size=4
+[2018.09.15-02.12.55:155][640]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b42054f738, Size=4, Default__BP_ProjectilePlayerSecondary_C Function /Game/Blueprints/Projectile_Folder/BP_ProjectilePlayerBase.BP_ProjectilePlayerBase_C:ExecuteUbergraph_BP_ProjectilePlayerBase
+[2018.09.15-02.12.55:155][640]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b42054f638, Size=4, Default__BP_ProjectilePlayerSecondary_C Function /Game/Blueprints/Projectile_Folder/BP_ProjectilePlayerBase.BP_ProjectilePlayerBase_C:ExecuteUbergraph_BP_ProjectilePlayerBase
+[2018.09.15-02.13.16:262][359]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.15-02.13.27:009][571]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b429b4d358, Size=4, Default__SKEL_BP_ProjectilePlayerBase_C Function /Game/Blueprints/Projectile_Folder/BP_ProjectilePlayerBase.SKEL_BP_ProjectilePlayerBase_C:ExecuteUbergraph_BP_ProjectilePlayerBase
+[2018.09.15-02.13.27:009][571]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b429b4cb30, Size=4, Default__SKEL_BP_ProjectilePlayerPrimary_C Function /Game/Blueprints/Projectile_Folder/BP_ProjectilePlayerBase.SKEL_BP_ProjectilePlayerBase_C:ExecuteUbergraph_BP_ProjectilePlayerBase
+[2018.09.15-02.13.27:053][571]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b429b4c588, Size=4, Default__SKEL_BP_ProjectilePlayerSecondary_C Function /Game/Blueprints/Projectile_Folder/BP_ProjectilePlayerBase.SKEL_BP_ProjectilePlayerBase_C:ExecuteUbergraph_BP_ProjectilePlayerBase
+[2018.09.15-02.13.34:709][163]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b429b4d358, Size=4
+[2018.09.15-02.13.34:709][163]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b429b4d358, Size=4, Default__SKEL_BP_ProjectilePlayerBase_C Function /Engine/Transient.REINST_SKEL_BP_ProjectilePlayerBase_C_29:ExecuteUbergraph_BP_ProjectilePlayerBase
+[2018.09.15-02.13.34:710][163]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b429b4ce90, Size=4, Default__SKEL_BP_ProjectilePlayerBase_C Function /Game/Blueprints/Projectile_Folder/BP_ProjectilePlayerBase.SKEL_BP_ProjectilePlayerBase_C:ExecuteUbergraph_BP_ProjectilePlayerBase
+[2018.09.15-02.13.34:711][163]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b429b4cb30, Size=4
+[2018.09.15-02.13.34:711][163]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b429b4cb30, Size=4, Default__SKEL_BP_ProjectilePlayerPrimary_C Function /Engine/Transient.REINST_SKEL_BP_ProjectilePlayerBase_C_29:ExecuteUbergraph_BP_ProjectilePlayerBase
+[2018.09.15-02.13.34:711][163]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b429b4d438, Size=4, Default__SKEL_BP_ProjectilePlayerPrimary_C Function /Game/Blueprints/Projectile_Folder/BP_ProjectilePlayerBase.SKEL_BP_ProjectilePlayerBase_C:ExecuteUbergraph_BP_ProjectilePlayerBase
+[2018.09.15-02.13.34:714][163]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b429b4c588, Size=4
+[2018.09.15-02.13.34:714][163]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b429b4c588, Size=4, Default__SKEL_BP_ProjectilePlayerSecondary_C Function /Engine/Transient.REINST_SKEL_BP_ProjectilePlayerBase_C_29:ExecuteUbergraph_BP_ProjectilePlayerBase
+[2018.09.15-02.13.34:714][163]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b429b4e818, Size=4, Default__SKEL_BP_ProjectilePlayerSecondary_C Function /Game/Blueprints/Projectile_Folder/BP_ProjectilePlayerBase.SKEL_BP_ProjectilePlayerBase_C:ExecuteUbergraph_BP_ProjectilePlayerBase
+[2018.09.15-02.13.38:139][567]BlueprintLog: New page: Compile BP_ProjectilePlayerBase
+[2018.09.15-02.13.38:166][567]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b429b4ce90, Size=4
+[2018.09.15-02.13.38:166][567]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b429b4ce90, Size=4, Default__SKEL_BP_ProjectilePlayerBase_C Function /Engine/Transient.REINST_SKEL_BP_ProjectilePlayerBase_C_35:ExecuteUbergraph_BP_ProjectilePlayerBase
+[2018.09.15-02.13.38:166][567]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b429b4d438, Size=4
+[2018.09.15-02.13.38:166][567]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b429b4d438, Size=4, Default__SKEL_BP_ProjectilePlayerPrimary_C Function /Engine/Transient.REINST_SKEL_BP_ProjectilePlayerBase_C_35:ExecuteUbergraph_BP_ProjectilePlayerBase
+[2018.09.15-02.13.38:166][567]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b429b4e818, Size=4
+[2018.09.15-02.13.38:166][567]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b429b4e818, Size=4, Default__SKEL_BP_ProjectilePlayerSecondary_C Function /Engine/Transient.REINST_SKEL_BP_ProjectilePlayerBase_C_35:ExecuteUbergraph_BP_ProjectilePlayerBase
+[2018.09.15-02.13.38:206][567]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3c60990d8, Size=4
+[2018.09.15-02.13.38:206][567]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b429b4e6c0, Size=4, Default__BP_ProjectilePlayerBase_C Function /Engine/Transient.REINST_BP_ProjectilePlayerBase_C_43:ExecuteUbergraph_BP_ProjectilePlayerBase
+[2018.09.15-02.13.38:206][567]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b43e7082a8, Size=4
+[2018.09.15-02.13.38:206][567]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b429b4e6c8, Size=4, BP_ProjectilePlayerPrimary_C_14 Function /Engine/Transient.REINST_BP_ProjectilePlayerBase_C_43:ExecuteUbergraph_BP_ProjectilePlayerBase
+[2018.09.15-02.13.38:206][567]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b42054f638, Size=4
+[2018.09.15-02.13.38:206][567]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b429b4e608, Size=4, BP_ProjectilePlayerSecondary_C_13 Function /Engine/Transient.REINST_BP_ProjectilePlayerBase_C_43:ExecuteUbergraph_BP_ProjectilePlayerBase
+[2018.09.15-02.13.38:208][567]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b429b4e640, Size=4, Default__BP_ProjectilePlayerBase_C Function /Game/Blueprints/Projectile_Folder/BP_ProjectilePlayerBase.BP_ProjectilePlayerBase_C:ExecuteUbergraph_BP_ProjectilePlayerBase
+[2018.09.15-02.13.38:208][567]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b429b4e638, Size=4, Default__BP_ProjectilePlayerPrimary_C Function /Game/Blueprints/Projectile_Folder/BP_ProjectilePlayerBase.BP_ProjectilePlayerBase_C:ExecuteUbergraph_BP_ProjectilePlayerBase
+[2018.09.15-02.13.38:209][567]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b429b4e648, Size=4, Default__BP_ProjectilePlayerSecondary_C Function /Game/Blueprints/Projectile_Folder/BP_ProjectilePlayerBase.BP_ProjectilePlayerBase_C:ExecuteUbergraph_BP_ProjectilePlayerBase
+[2018.09.15-02.13.39:132][567]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b43e7082d8, Size=4
+[2018.09.15-02.13.39:133][567]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b42054f738, Size=4
+[2018.09.15-02.13.39:134][567]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b429b4d358, Size=4
+[2018.09.15-02.13.39:134][567]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b429b4cb30, Size=4
+[2018.09.15-02.13.39:134][567]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b429b4c588, Size=4
+[2018.09.15-02.13.39:134][567]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b429b4ce90, Size=4
+[2018.09.15-02.13.39:134][567]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b429b4d438, Size=4
+[2018.09.15-02.13.39:134][567]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b429b4e818, Size=4
+[2018.09.15-02.14.19:086][273]BlueprintLog: New page: Compile BP_ProjectilePlayerBase
+[2018.09.15-02.14.19:100][273]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b429b4e640, Size=4
+[2018.09.15-02.14.19:100][273]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3c1784ba8, Size=4, BP_ProjectilePlayerBase_C_43 Function /Engine/Transient.REINST_BP_ProjectilePlayerBase_C_57:ExecuteUbergraph_BP_ProjectilePlayerBase
+[2018.09.15-02.14.19:100][273]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b429b4e638, Size=4
+[2018.09.15-02.14.19:100][273]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3c1785d80, Size=4, Default__BP_ProjectilePlayerPrimary_C Function /Engine/Transient.REINST_BP_ProjectilePlayerBase_C_57:ExecuteUbergraph_BP_ProjectilePlayerBase
+[2018.09.15-02.14.19:101][273]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b429b4e648, Size=4
+[2018.09.15-02.14.19:101][273]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3c1786df8, Size=4, Default__BP_ProjectilePlayerSecondary_C Function /Engine/Transient.REINST_BP_ProjectilePlayerBase_C_57:ExecuteUbergraph_BP_ProjectilePlayerBase
+[2018.09.15-02.14.19:103][273]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3c1784670, Size=4, Default__BP_ProjectilePlayerBase_C Function /Game/Blueprints/Projectile_Folder/BP_ProjectilePlayerBase.BP_ProjectilePlayerBase_C:ExecuteUbergraph_BP_ProjectilePlayerBase
+[2018.09.15-02.14.19:103][273]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3c1785c78, Size=4, Default__BP_ProjectilePlayerPrimary_C Function /Game/Blueprints/Projectile_Folder/BP_ProjectilePlayerBase.BP_ProjectilePlayerBase_C:ExecuteUbergraph_BP_ProjectilePlayerBase
+[2018.09.15-02.14.19:103][273]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3c1784800, Size=4, Default__BP_ProjectilePlayerSecondary_C Function /Game/Blueprints/Projectile_Folder/BP_ProjectilePlayerBase.BP_ProjectilePlayerBase_C:ExecuteUbergraph_BP_ProjectilePlayerBase
+[2018.09.15-02.16.07:954][698]BlueprintLog: New page: Compile BP_ProjectilePlayerSecondary
+[2018.09.15-02.16.07:960][698]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3c1784800, Size=4
+[2018.09.15-02.16.07:960][698]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b429b4d088, Size=4, BP_ProjectilePlayerSecondary_C_118 Function /Game/Blueprints/Projectile_Folder/BP_ProjectilePlayerBase.BP_ProjectilePlayerBase_C:ExecuteUbergraph_BP_ProjectilePlayerBase
+[2018.09.15-02.16.08:336][698]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b429b4dbe0, Size=4, Default__BP_ProjectilePlayerSecondary_C Function /Game/Blueprints/Projectile_Folder/BP_ProjectilePlayerBase.BP_ProjectilePlayerBase_C:ExecuteUbergraph_BP_ProjectilePlayerBase
+[2018.09.15-02.17.10:472][421]BlueprintLog: New page: Compile BP_Player
+[2018.09.15-02.17.10:510][421]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b38e4d0f00, Size=1344
+[2018.09.15-02.17.10:510][421]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b42ae25600, Size=1344, Default__BP_Player_C Function /Engine/Transient.REINST_BP_Player_C_69:ExecuteUbergraph_BP_Player
+[2018.09.15-02.17.10:519][421]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3953ac100, Size=1344, Default__BP_Player_C Function /Game/Blueprints/BP_Player.BP_Player_C:ExecuteUbergraph_BP_Player
+[2018.09.15-02.17.14:405][843]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.15-02.17.14:429][843]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.15-02.17.14:435][843]LogPlayLevel: [PlayLevel] Compiling BP_ProjectilePlayerBase before play...
+[2018.09.15-02.17.14:439][843]LogPlayLevel: [PlayLevel]   Compiling BP_ProjectilePlayerPrimary as a dependent...
+[2018.09.15-02.17.14:440][843]LogPlayLevel: [PlayLevel]   Compiling BP_ProjectilePlayerSecondary as a dependent...
+[2018.09.15-02.17.14:441][843]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3c1784670, Size=4
+[2018.09.15-02.17.14:441][843]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b4454ce230, Size=4, BP_ProjectilePlayerBase_C_85 Function /Engine/Transient.REINST_BP_ProjectilePlayerBase_C_79:ExecuteUbergraph_BP_ProjectilePlayerBase
+[2018.09.15-02.17.14:441][843]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3c1785c78, Size=4
+[2018.09.15-02.17.14:441][843]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b4454cd2b0, Size=4, BP_ProjectilePlayerPrimary_C_105 Function /Engine/Transient.REINST_BP_ProjectilePlayerBase_C_79:ExecuteUbergraph_BP_ProjectilePlayerBase
+[2018.09.15-02.17.14:442][843]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b429b4dbe0, Size=4
+[2018.09.15-02.17.14:442][843]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b4454ce328, Size=4, BP_ProjectilePlayerSecondary_C_136 Function /Engine/Transient.REINST_BP_ProjectilePlayerBase_C_79:ExecuteUbergraph_BP_ProjectilePlayerBase
+[2018.09.15-02.17.14:443][843]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b4454cd498, Size=4, Default__BP_ProjectilePlayerBase_C Function /Game/Blueprints/Projectile_Folder/BP_ProjectilePlayerBase.BP_ProjectilePlayerBase_C:ExecuteUbergraph_BP_ProjectilePlayerBase
+[2018.09.15-02.17.14:443][843]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b4454cd2d8, Size=4, Default__BP_ProjectilePlayerPrimary_C Function /Game/Blueprints/Projectile_Folder/BP_ProjectilePlayerBase.BP_ProjectilePlayerBase_C:ExecuteUbergraph_BP_ProjectilePlayerBase
+[2018.09.15-02.17.14:444][843]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b4454cc358, Size=4, Default__BP_ProjectilePlayerSecondary_C Function /Game/Blueprints/Projectile_Folder/BP_ProjectilePlayerBase.BP_ProjectilePlayerBase_C:ExecuteUbergraph_BP_ProjectilePlayerBase
+[2018.09.15-02.17.15:125][843]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b42ae25600, Size=1344
+[2018.09.15-02.17.15:125][843]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b4454ce328, Size=4
+[2018.09.15-02.17.15:507][843]LogPlayLevel: PlayLevel: Blueprint regeneration took 1077 ms (3 blueprints)
+[2018.09.15-02.17.15:507][843]PIE: New page: PIE session: Main (Sep 14, 2018, 12:17:15 PM)
+[2018.09.15-02.17.15:507][843]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.09.15-02.17.15:508][843]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001015s)
+[2018.09.15-02.17.15:509][843]LogAIModule: Creating AISystem for world Main
+[2018.09.15-02.17.15:509][843]LogPlayLevel: PIE: World Init took: (0.000632s)
+[2018.09.15-02.17.15:509][843]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.001771s)
+[2018.09.15-02.17.15:549][843]LogInit: XAudio2 using 'Focusrite USB (Focusrite USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.15-02.17.15:554][843]LogInit: FAudioDevice initialized.
+[2018.09.15-02.17.15:602][843]LogLoad: Game class is 'BP_GameMode_C'
+[2018.09.15-02.17.15:603][843]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2018.09.14-19.17.15
+[2018.09.15-02.17.15:604][843]LogWorld: Bringing up level for play took: 0.000520
+[2018.09.15-02.17.15:605][843]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.781
+[2018.09.15-02.17.29:963][547]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.15-02.17.59:518][740]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.15-02.17.59:543][740]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.15-02.17.59:548][740]LogPlayLevel: [PlayLevel] Compiling BP_ProjectilePlayerBase before play...
+[2018.09.15-02.17.59:552][740]LogPlayLevel: [PlayLevel]   Compiling BP_ProjectilePlayerPrimary as a dependent...
+[2018.09.15-02.17.59:553][740]LogPlayLevel: [PlayLevel]   Compiling BP_ProjectilePlayerSecondary as a dependent...
+[2018.09.15-02.17.59:554][740]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b4454cd498, Size=4
+[2018.09.15-02.17.59:554][740]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3c1786060, Size=4, BP_ProjectilePlayerBase_C_121 Function /Engine/Transient.REINST_BP_ProjectilePlayerBase_C_93:ExecuteUbergraph_BP_ProjectilePlayerBase
+[2018.09.15-02.17.59:554][740]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b4454cd2d8, Size=4
+[2018.09.15-02.17.59:554][740]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3c1785e88, Size=4, BP_ProjectilePlayerPrimary_C_129 Function /Engine/Transient.REINST_BP_ProjectilePlayerBase_C_93:ExecuteUbergraph_BP_ProjectilePlayerBase
+[2018.09.15-02.17.59:554][740]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b4454cc358, Size=4
+[2018.09.15-02.17.59:554][740]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3c1784828, Size=4, BP_ProjectilePlayerSecondary_C_166 Function /Engine/Transient.REINST_BP_ProjectilePlayerBase_C_93:ExecuteUbergraph_BP_ProjectilePlayerBase
+[2018.09.15-02.17.59:556][740]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3c17870f0, Size=4, Default__BP_ProjectilePlayerBase_C Function /Game/Blueprints/Projectile_Folder/BP_ProjectilePlayerBase.BP_ProjectilePlayerBase_C:ExecuteUbergraph_BP_ProjectilePlayerBase
+[2018.09.15-02.17.59:557][740]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3c1786f80, Size=4, Default__BP_ProjectilePlayerPrimary_C Function /Game/Blueprints/Projectile_Folder/BP_ProjectilePlayerBase.BP_ProjectilePlayerBase_C:ExecuteUbergraph_BP_ProjectilePlayerBase
+[2018.09.15-02.17.59:557][740]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3c1785f98, Size=4, Default__BP_ProjectilePlayerSecondary_C Function /Game/Blueprints/Projectile_Folder/BP_ProjectilePlayerBase.BP_ProjectilePlayerBase_C:ExecuteUbergraph_BP_ProjectilePlayerBase
+[2018.09.15-02.18.00:415][740]LogPlayLevel: PlayLevel: Blueprint regeneration took 872 ms (3 blueprints)
+[2018.09.15-02.18.00:415][740]PIE: New page: PIE session: Main (Sep 14, 2018, 12:18:00 PM)
+[2018.09.15-02.18.00:415][740]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.09.15-02.18.00:416][740]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000879s)
+[2018.09.15-02.18.00:417][740]LogAIModule: Creating AISystem for world Main
+[2018.09.15-02.18.00:417][740]LogPlayLevel: PIE: World Init took: (0.000507s)
+[2018.09.15-02.18.00:417][740]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.001467s)
+[2018.09.15-02.18.00:455][740]LogInit: XAudio2 using 'Focusrite USB (Focusrite USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.15-02.18.00:460][740]LogInit: FAudioDevice initialized.
+[2018.09.15-02.18.00:491][740]LogLoad: Game class is 'BP_GameMode_C'
+[2018.09.15-02.18.00:493][740]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2018.09.14-19.18.00
+[2018.09.15-02.18.00:493][740]LogWorld: Bringing up level for play took: 0.000618
+[2018.09.15-02.18.00:495][740]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 1.67
+[2018.09.15-02.20.13:507][290]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.15-02.20.35:576][201]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.09.15-02.21.06:187][713]LogSlate: Took 0.031845 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.09.15-02.22.19:143][196]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b438609df8, Size=4, Default__SKEL_BP_EnemyBase_C Function /Game/Blueprints/Enemies/BP_EnemyBase.SKEL_BP_EnemyBase_C:ExecuteUbergraph_BP_EnemyBase
+[2018.09.15-02.22.43:784][165]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b438609df8, Size=4
+[2018.09.15-02.22.43:784][165]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b438609df8, Size=4, Default__SKEL_BP_EnemyBase_C Function /Engine/Transient.REINST_SKEL_BP_EnemyBase_C_129:ExecuteUbergraph_BP_EnemyBase
+[2018.09.15-02.22.43:785][165]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b438609370, Size=4, Default__SKEL_BP_EnemyBase_C Function /Game/Blueprints/Enemies/BP_EnemyBase.SKEL_BP_EnemyBase_C:ExecuteUbergraph_BP_EnemyBase
+[2018.09.15-02.23.05:706][628]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b4306e4660, Size=4, Default__SKEL_BP_GameMode_C Function /Game/Blueprints/BP_GameMode.SKEL_BP_GameMode_C:ExecuteUbergraph_BP_GameMode
+[2018.09.15-02.23.16:590][923]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b4306e4660, Size=4
+[2018.09.15-02.23.16:590][923]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3ddd421a8, Size=4, Default__SKEL_BP_GameMode_C Function /Engine/Transient.REINST_SKEL_BP_GameMode_C_133:ExecuteUbergraph_BP_GameMode
+[2018.09.15-02.23.16:590][923]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3ddd41990, Size=4, Default__SKEL_BP_GameMode_C Function /Game/Blueprints/BP_GameMode.SKEL_BP_GameMode_C:ExecuteUbergraph_BP_GameMode
+[2018.09.15-02.23.28:311][581]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3ddd41990, Size=4
+[2018.09.15-02.23.28:311][581]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3fc607668, Size=4, Default__SKEL_BP_GameMode_C Function /Engine/Transient.REINST_SKEL_BP_GameMode_C_135:ExecuteUbergraph_BP_GameMode
+[2018.09.15-02.23.28:312][581]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3fc607338, Size=4, Default__SKEL_BP_GameMode_C Function /Game/Blueprints/BP_GameMode.SKEL_BP_GameMode_C:ExecuteUbergraph_BP_GameMode
+[2018.09.15-02.23.34:679][340]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3fc607338, Size=4
+[2018.09.15-02.23.34:679][340]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b4396e5cd0, Size=4, Default__SKEL_BP_GameMode_C Function /Engine/Transient.REINST_SKEL_BP_GameMode_C_137:ExecuteUbergraph_BP_GameMode
+[2018.09.15-02.23.34:680][340]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b4396e5c70, Size=4, Default__SKEL_BP_GameMode_C Function /Game/Blueprints/BP_GameMode.SKEL_BP_GameMode_C:ExecuteUbergraph_BP_GameMode
+[2018.09.15-02.23.37:857][524]BlueprintLog: New page: Compile BP_GameMode
+[2018.09.15-02.23.37:858][524]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b438609370, Size=4
+[2018.09.15-02.23.37:858][524]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b4396e7ec0, Size=4, Default__SKEL_BP_EnemyBase_C Function /Engine/Transient.REINST_SKEL_BP_EnemyBase_C_139:ExecuteUbergraph_BP_EnemyBase
+[2018.09.15-02.23.37:858][524]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b4396e5c70, Size=4
+[2018.09.15-02.23.37:858][524]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b4396e5c70, Size=4, Default__SKEL_BP_GameMode_C Function /Engine/Transient.REINST_SKEL_BP_GameMode_C_141:ExecuteUbergraph_BP_GameMode
+[2018.09.15-02.23.37:863][524]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b4396e7f18, Size=8, Default__BP_GameMode_C Function /Game/Blueprints/BP_GameMode.BP_GameMode_C:ExecuteUbergraph_BP_GameMode
+[2018.09.15-02.23.38:005][524]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b4396e7ec0, Size=4
+[2018.09.15-02.23.38:005][524]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b4396e5c70, Size=4
+[2018.09.15-02.23.38:005][524]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b4396e5cd0, Size=4
+[2018.09.15-02.23.38:005][524]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3fc607668, Size=4
+[2018.09.15-02.23.38:006][524]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3ddd421a8, Size=4
+[2018.09.15-02.23.38:006][524]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b438609df8, Size=4
+[2018.09.15-02.24.01:202][234]BlueprintLog: New page: Compile BP_EnemyBase
+[2018.09.15-02.24.01:207][234]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3ddfb0fe0, Size=32, Default__BP_EnemyBase_C Function /Game/Blueprints/Enemies/BP_EnemyBase.BP_EnemyBase_C:ExecuteUbergraph_BP_EnemyBase
+[2018.09.15-02.24.05:066][666]BlueprintLog: New page: Compile BP_GameMode
+[2018.09.15-02.24.05:072][666]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b4396e7f18, Size=8
+[2018.09.15-02.24.05:072][666]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b429b4cd50, Size=8, Default__BP_GameMode_C Function /Engine/Transient.REINST_BP_GameMode_C_157:ExecuteUbergraph_BP_GameMode
+[2018.09.15-02.24.05:073][666]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b429b4d8a8, Size=8, Default__BP_GameMode_C Function /Game/Blueprints/BP_GameMode.BP_GameMode_C:ExecuteUbergraph_BP_GameMode
+[2018.09.15-02.24.10:306][270]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b42bc04700, Size=4, Default__SKEL_BP_EnemyBase_C Function /Game/Blueprints/Enemies/BP_EnemyBase.SKEL_BP_EnemyBase_C:ExecuteUbergraph_BP_EnemyBase
+[2018.09.15-02.24.13:897][690]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b42bc04700, Size=4
+[2018.09.15-02.24.13:898][690]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b42bc04700, Size=4, Default__SKEL_BP_EnemyBase_C Function /Engine/Transient.REINST_SKEL_BP_EnemyBase_C_161:ExecuteUbergraph_BP_EnemyBase
+[2018.09.15-02.24.13:900][690]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b42bc05d80, Size=4, Default__SKEL_BP_EnemyBase_C Function /Game/Blueprints/Enemies/BP_EnemyBase.SKEL_BP_EnemyBase_C:ExecuteUbergraph_BP_EnemyBase
+[2018.09.15-02.24.20:742][507]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b42bc05d80, Size=4
+[2018.09.15-02.24.20:742][507]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b4396e5cf8, Size=4, Default__SKEL_BP_EnemyBase_C Function /Engine/Transient.REINST_SKEL_BP_EnemyBase_C_163:ExecuteUbergraph_BP_EnemyBase
+[2018.09.15-02.24.20:743][507]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b4396e60c0, Size=4, Default__SKEL_BP_EnemyBase_C Function /Game/Blueprints/Enemies/BP_EnemyBase.SKEL_BP_EnemyBase_C:ExecuteUbergraph_BP_EnemyBase
+[2018.09.15-02.24.55:248][499]LogEditorTransaction: Undo Add Node
+[2018.09.15-02.24.55:650][499]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b4396e60c0, Size=4
+[2018.09.15-02.24.55:651][499]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3fc606ff8, Size=4, Default__SKEL_BP_EnemyBase_C Function /Engine/Transient.REINST_SKEL_BP_EnemyBase_C_165:ExecuteUbergraph_BP_EnemyBase
+[2018.09.15-02.24.55:656][499]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3fc606e88, Size=4, Default__SKEL_BP_EnemyBase_C Function /Game/Blueprints/Enemies/BP_EnemyBase.SKEL_BP_EnemyBase_C:ExecuteUbergraph_BP_EnemyBase
+[2018.09.15-02.25.59:024][923]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b429b4cd50, Size=8
+[2018.09.15-02.25.59:024][923]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3fc606ff8, Size=4
+[2018.09.15-02.25.59:024][923]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b4396e5cf8, Size=4
+[2018.09.15-02.25.59:024][923]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b42bc04700, Size=4
+[2018.09.15-02.25.59:025][923]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.020
+[2018.09.15-02.25.59:468][923]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_GameMode] ([1] browsable assets)...
+[2018.09.15-02.25.59:478][923]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_GameMode]
+[2018.09.15-02.25.59:672][923]LogSavePackage: Save=114.05ms
+[2018.09.15-02.25.59:675][923]LogSavePackage: Moving 'C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Saved/BP_GameMode_Auto158E8FE234C29F10CBAE7EA812EB00B4B.tmp' to 'C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Saved/Autosaves/Game/Blueprints/BP_GameMode_Auto1.uasset'
+[2018.09.15-02.25.59:697][923]LogSavePackage: Display: Finished SavePackage C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Saved/Autosaves/Game/Blueprints/BP_GameMode_Auto1.uasset
+[2018.09.15-02.25.59:698][923]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/BP_Player] ([1] browsable assets)...
+[2018.09.15-02.25.59:726][923]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/BP_Player.BP_Player]
+[2018.09.15-02.25.59:726][923]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2018.09.15-02.25.59:840][923]LogSavePackage: Save=99.47ms
+[2018.09.15-02.25.59:840][923]LogSavePackage: Moving 'C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Saved/BP_Player_Auto166639EF54916AF2F41CB938865396EF5.tmp' to 'C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Saved/Autosaves/Game/Blueprints/BP_Player_Auto1.uasset'
+[2018.09.15-02.25.59:847][923]LogSavePackage: Display: Finished SavePackage C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Saved/Autosaves/Game/Blueprints/BP_Player_Auto1.uasset
+[2018.09.15-02.25.59:848][923]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Projectile_Folder/BP_ProjectilePlayerBase] ([1] browsable assets)...
+[2018.09.15-02.25.59:861][923]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Projectile_Folder/BP_ProjectilePlayerBase.BP_ProjectilePlayerBase]
+[2018.09.15-02.25.59:861][923]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Projectile_Folder/BP_ProjectilePlayerBase]
+[2018.09.15-02.25.59:895][923]LogSavePackage: Save=25.41ms
+[2018.09.15-02.25.59:896][923]LogSavePackage: Moving 'C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Saved/BP_ProjectilePlayerBase_Auto1CAA4D5064FB18423C238C9936EC5A694.tmp' to 'C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Saved/Autosaves/Game/Blueprints/Projectile_Folder/BP_ProjectilePlayerBase_Auto1.uasset'
+[2018.09.15-02.25.59:897][923]LogSavePackage: Display: Finished SavePackage C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Saved/Autosaves/Game/Blueprints/Projectile_Folder/BP_ProjectilePlayerBase_Auto1.uasset
+[2018.09.15-02.25.59:898][923]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Projectile_Folder/BP_ProjectilePlayerPrimary] ([1] browsable assets)...
+[2018.09.15-02.25.59:909][923]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Projectile_Folder/BP_ProjectilePlayerPrimary.BP_ProjectilePlayerPrimary]
+[2018.09.15-02.25.59:909][923]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Projectile_Folder/BP_ProjectilePlayerPrimary]
+[2018.09.15-02.25.59:956][923]LogSavePackage: Save=35.82ms
+[2018.09.15-02.25.59:956][923]LogSavePackage: Moving 'C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Saved/BP_ProjectilePlayerPrimary_Auto1B18EBC1845CE0AAFA16B8EA1956359B8.tmp' to 'C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Saved/Autosaves/Game/Blueprints/Projectile_Folder/BP_ProjectilePlayerPrimary_Auto1.uasset'
+[2018.09.15-02.25.59:957][923]LogSavePackage: Display: Finished SavePackage C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Saved/Autosaves/Game/Blueprints/Projectile_Folder/BP_ProjectilePlayerPrimary_Auto1.uasset
+[2018.09.15-02.25.59:958][923]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Projectile_Folder/BP_ProjectilePlayerSecondary] ([1] browsable assets)...
+[2018.09.15-02.25.59:969][923]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Projectile_Folder/BP_ProjectilePlayerSecondary.BP_ProjectilePlayerSecondary]
+[2018.09.15-02.25.59:969][923]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Projectile_Folder/BP_ProjectilePlayerSecondary]
+[2018.09.15-02.25.59:995][923]LogSavePackage: Save=16.79ms
+[2018.09.15-02.25.59:995][923]LogSavePackage: Moving 'C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Saved/BP_ProjectilePlayerSecondary_AutA556E6DB43E8A1F6E3391DB032529DF4.tmp' to 'C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Saved/Autosaves/Game/Blueprints/Projectile_Folder/BP_ProjectilePlayerSecondary_Auto1.uasset'
+[2018.09.15-02.25.59:996][923]LogSavePackage: Display: Finished SavePackage C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Saved/Autosaves/Game/Blueprints/Projectile_Folder/BP_ProjectilePlayerSecondary_Auto1.uasset
+[2018.09.15-02.25.59:997][923]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/BP_EnemyBase] ([1] browsable assets)...
+[2018.09.15-02.25.59:997][923]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/BP_EnemyBase]
+[2018.09.15-02.26.00:018][923]LogSavePackage: Save=18.93ms
+[2018.09.15-02.26.00:018][923]LogSavePackage: Moving 'C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Saved/BP_EnemyBase_Auto1CE7FFD6C4C53F2EE025E079A4BAC8235.tmp' to 'C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Saved/Autosaves/Game/Blueprints/Enemies/BP_EnemyBase_Auto1.uasset'
+[2018.09.15-02.26.00:019][923]LogSavePackage: Display: Finished SavePackage C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Saved/Autosaves/Game/Blueprints/Enemies/BP_EnemyBase_Auto1.uasset
+[2018.09.15-02.26.00:019][923]LogFileHelpers: Auto-saving content packages took 0.993
+[2018.09.15-02.27.32:561][247]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3fc606e88, Size=4
+[2018.09.15-02.27.32:561][247]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3e1a3ea98, Size=4, Default__SKEL_BP_EnemyBase_C Function /Engine/Transient.REINST_SKEL_BP_EnemyBase_C_167:ExecuteUbergraph_BP_EnemyBase
+[2018.09.15-02.27.32:567][247]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3e1a3edd8, Size=4, Default__SKEL_BP_EnemyBase_C Function /Game/Blueprints/Enemies/BP_EnemyBase.SKEL_BP_EnemyBase_C:ExecuteUbergraph_BP_EnemyBase
+[2018.09.15-02.27.43:264][520]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3e1a3edd8, Size=4
+[2018.09.15-02.27.43:264][520]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3fc607f58, Size=4, Default__SKEL_BP_EnemyBase_C Function /Engine/Transient.REINST_SKEL_BP_EnemyBase_C_169:ExecuteUbergraph_BP_EnemyBase
+[2018.09.15-02.27.43:266][520]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3fc6076a0, Size=4, Default__SKEL_BP_EnemyBase_C Function /Game/Blueprints/Enemies/BP_EnemyBase.SKEL_BP_EnemyBase_C:ExecuteUbergraph_BP_EnemyBase
+[2018.09.15-02.28.01:804][536]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3fc6076a0, Size=4
+[2018.09.15-02.28.01:804][536]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3fc6076a0, Size=4, Default__SKEL_BP_EnemyBase_C Function /Engine/Transient.REINST_SKEL_BP_EnemyBase_C_171:ExecuteUbergraph_BP_EnemyBase
+[2018.09.15-02.28.01:805][536]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3fc606f18, Size=4, Default__SKEL_BP_EnemyBase_C Function /Game/Blueprints/Enemies/BP_EnemyBase.SKEL_BP_EnemyBase_C:ExecuteUbergraph_BP_EnemyBase
+[2018.09.15-02.28.44:397][792]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3fc606f18, Size=4
+[2018.09.15-02.28.44:397][792]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b40e395908, Size=4, Default__SKEL_BP_EnemyBase_C Function /Engine/Transient.REINST_SKEL_BP_EnemyBase_C_173:ExecuteUbergraph_BP_EnemyBase
+[2018.09.15-02.28.44:399][792]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b40e3957b0, Size=4, Default__SKEL_BP_EnemyBase_C Function /Game/Blueprints/Enemies/BP_EnemyBase.SKEL_BP_EnemyBase_C:ExecuteUbergraph_BP_EnemyBase
+[2018.09.15-02.28.44:405][792]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b40e3957b0, Size=4
+[2018.09.15-02.28.44:405][792]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b40e3957b0, Size=4, Default__SKEL_BP_EnemyBase_C Function /Engine/Transient.REINST_SKEL_BP_EnemyBase_C_175:ExecuteUbergraph_BP_EnemyBase
+[2018.09.15-02.28.44:407][792]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b40e3954d8, Size=4, Default__SKEL_BP_EnemyBase_C Function /Game/Blueprints/Enemies/BP_EnemyBase.SKEL_BP_EnemyBase_C:ExecuteUbergraph_BP_EnemyBase
+[2018.09.15-02.28.51:188][601]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b40e3954d8, Size=4
+[2018.09.15-02.28.51:188][601]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b410794c38, Size=4, Default__SKEL_BP_EnemyBase_C Function /Engine/Transient.REINST_SKEL_BP_EnemyBase_C_177:ExecuteUbergraph_BP_EnemyBase
+[2018.09.15-02.28.51:190][601]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b410794890, Size=4, Default__SKEL_BP_EnemyBase_C Function /Game/Blueprints/Enemies/BP_EnemyBase.SKEL_BP_EnemyBase_C:ExecuteUbergraph_BP_EnemyBase
+[2018.09.15-02.30.25:134][738]BlueprintLog: New page: Compile BP_EnemyBase
+[2018.09.15-02.30.25:139][738]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b410794890, Size=4
+[2018.09.15-02.30.25:139][738]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3fc605078, Size=4, Default__SKEL_BP_EnemyBase_C Function /Engine/Transient.REINST_SKEL_BP_EnemyBase_C_179:ExecuteUbergraph_BP_EnemyBase
+[2018.09.15-02.30.25:145][738]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3ddfb0fe0, Size=32
+[2018.09.15-02.30.25:145][738]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b4002870c0, Size=32, Default__BP_EnemyBase_C Function /Engine/Transient.REINST_BP_EnemyBase_C_181:ExecuteUbergraph_BP_EnemyBase
+[2018.09.15-02.30.25:148][738]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b430636780, Size=56, Default__BP_EnemyBase_C Function /Game/Blueprints/Enemies/BP_EnemyBase.BP_EnemyBase_C:ExecuteUbergraph_BP_EnemyBase
+[2018.09.15-02.30.25:300][738]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3fc605078, Size=4
+[2018.09.15-02.30.25:300][738]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3e1a3ea98, Size=4
+[2018.09.15-02.30.25:300][738]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b410794c38, Size=4
+[2018.09.15-02.30.25:300][738]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b40e3957b0, Size=4
+[2018.09.15-02.30.25:300][738]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b40e395908, Size=4
+[2018.09.15-02.30.25:300][738]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3fc6076a0, Size=4
+[2018.09.15-02.30.25:300][738]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3fc607f58, Size=4
+[2018.09.15-02.32.41:464][503]BlueprintLog: New page: Compile BP_EnemyBase
+[2018.09.15-02.32.41:475][503]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b430636780, Size=56
+[2018.09.15-02.32.41:475][503]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b435928100, Size=56, BP_EnemyBase_C_75 Function /Engine/Transient.REINST_BP_EnemyBase_C_185:ExecuteUbergraph_BP_EnemyBase
+[2018.09.15-02.32.41:478][503]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b44461fd60, Size=224, Default__BP_EnemyBase_C Function /Game/Blueprints/Enemies/BP_EnemyBase.BP_EnemyBase_C:ExecuteUbergraph_BP_EnemyBase
+[2018.09.15-02.32.50:306][344]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b4386083d0, Size=4, Default__SKEL_BP_EnemyBase_C Function /Game/Blueprints/Enemies/BP_EnemyBase.SKEL_BP_EnemyBase_C:ExecuteUbergraph_BP_EnemyBase
+[2018.09.15-02.32.55:341][943]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b4386083d0, Size=4
+[2018.09.15-02.32.55:341][943]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b40259bb70, Size=4, Default__SKEL_BP_EnemyBase_C Function /Engine/Transient.REINST_SKEL_BP_EnemyBase_C_189:ExecuteUbergraph_BP_EnemyBase
+[2018.09.15-02.32.55:343][943]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b40259b540, Size=4, Default__SKEL_BP_EnemyBase_C Function /Game/Blueprints/Enemies/BP_EnemyBase.SKEL_BP_EnemyBase_C:ExecuteUbergraph_BP_EnemyBase
+[2018.09.15-02.33.19:726][254]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b40259b540, Size=4
+[2018.09.15-02.33.19:726][254]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b40259b540, Size=4, Default__SKEL_BP_EnemyBase_C Function /Engine/Transient.REINST_SKEL_BP_EnemyBase_C_191:ExecuteUbergraph_BP_EnemyBase
+[2018.09.15-02.33.19:729][254]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b40259a250, Size=4, Default__SKEL_BP_EnemyBase_C Function /Game/Blueprints/Enemies/BP_EnemyBase.SKEL_BP_EnemyBase_C:ExecuteUbergraph_BP_EnemyBase
+[2018.09.15-02.33.32:675][800]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b40259a250, Size=4
+[2018.09.15-02.33.32:675][800]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b40259a250, Size=4, Default__SKEL_BP_EnemyBase_C Function /Engine/Transient.REINST_SKEL_BP_EnemyBase_C_193:ExecuteUbergraph_BP_EnemyBase
+[2018.09.15-02.33.32:678][800]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b40259b060, Size=4, Default__SKEL_BP_EnemyBase_C Function /Game/Blueprints/Enemies/BP_EnemyBase.SKEL_BP_EnemyBase_C:ExecuteUbergraph_BP_EnemyBase
+[2018.09.15-02.37.01:385][ 23]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b435928100, Size=56
+[2018.09.15-02.37.01:385][ 23]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b40259bb70, Size=4
+[2018.09.15-02.37.01:385][ 23]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b40259a250, Size=4
+[2018.09.15-02.37.01:385][ 23]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b40259b540, Size=4
+[2018.09.15-02.37.01:386][ 23]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.023
+[2018.09.15-02.37.01:388][ 23]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/BP_EnemyBase] ([1] browsable assets)...
+[2018.09.15-02.37.01:388][ 23]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/BP_EnemyBase]
+[2018.09.15-02.37.01:421][ 23]LogSavePackage: Save=31.47ms
+[2018.09.15-02.37.01:421][ 23]LogSavePackage: Moving 'C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Saved/BP_EnemyBase_Auto298E2259D45951F0F9A7056941765C359.tmp' to 'C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Saved/Autosaves/Game/Blueprints/Enemies/BP_EnemyBase_Auto2.uasset'
+[2018.09.15-02.37.01:423][ 23]LogSavePackage: Display: Finished SavePackage C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Saved/Autosaves/Game/Blueprints/Enemies/BP_EnemyBase_Auto2.uasset
+[2018.09.15-02.37.01:423][ 23]LogFileHelpers: Auto-saving content packages took 0.037
+[2018.09.15-02.37.27:595][630]BlueprintLog: New page: Compile BP_EnemyBase
+[2018.09.15-02.37.27:603][630]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b40259b060, Size=4
+[2018.09.15-02.37.27:603][630]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b410797b58, Size=4, Default__SKEL_BP_EnemyBase_C Function /Engine/Transient.REINST_SKEL_BP_EnemyBase_C_195:ExecuteUbergraph_BP_EnemyBase
+[2018.09.15-02.37.27:611][630]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b44461fd60, Size=224
+[2018.09.15-02.37.27:611][630]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b453513040, Size=224, BP_EnemyBase_C_94 Function /Engine/Transient.REINST_BP_EnemyBase_C_197:ExecuteUbergraph_BP_EnemyBase
+[2018.09.15-02.37.27:616][630]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b47c224640, Size=432, Default__BP_EnemyBase_C Function /Game/Blueprints/Enemies/BP_EnemyBase.BP_EnemyBase_C:ExecuteUbergraph_BP_EnemyBase
+[2018.09.15-02.37.27:757][630]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b410797b58, Size=4
+[2018.09.15-02.37.43:476][423]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b40259b960, Size=4, Default__SKEL_BP_EnemyBase_C Function /Game/Blueprints/Enemies/BP_EnemyBase.SKEL_BP_EnemyBase_C:ExecuteUbergraph_BP_EnemyBase
+[2018.09.15-02.38.01:186][829]BlueprintLog: New page: Compile BP_EnemyBase
+[2018.09.15-02.38.01:194][829]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b40259b960, Size=4
+[2018.09.15-02.38.01:194][829]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b410797358, Size=4, Default__SKEL_BP_EnemyBase_C Function /Engine/Transient.REINST_SKEL_BP_EnemyBase_C_201:ExecuteUbergraph_BP_EnemyBase
+[2018.09.15-02.38.01:201][829]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b47c224640, Size=432
+[2018.09.15-02.38.01:201][829]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b46ac3d980, Size=432, BP_EnemyBase_C_108 Function /Engine/Transient.REINST_BP_EnemyBase_C_203:ExecuteUbergraph_BP_EnemyBase
+[2018.09.15-02.38.01:205][829]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b4867f7e40, Size=432, Default__BP_EnemyBase_C Function /Game/Blueprints/Enemies/BP_EnemyBase.BP_EnemyBase_C:ExecuteUbergraph_BP_EnemyBase
+[2018.09.15-02.38.01:347][829]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b410797358, Size=4
+[2018.09.15-02.38.01:347][829]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b453513040, Size=224
+[2018.09.15-02.38.28:289][513]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b438e84d40, Size=432, Default__BP_EnemyOne_C Function /Game/Blueprints/Enemies/BP_EnemyBase.BP_EnemyBase_C:ExecuteUbergraph_BP_EnemyBase
+[2018.09.15-02.39.22:852][939]BlueprintLog: New page: Compile BP_EnemyBase
+[2018.09.15-02.39.22:869][939]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b4867f7e40, Size=432
+[2018.09.15-02.39.22:869][939]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b42872c640, Size=432, BP_EnemyBase_C_117 Function /Engine/Transient.REINST_BP_EnemyBase_C_211:ExecuteUbergraph_BP_EnemyBase
+[2018.09.15-02.39.22:869][939]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b438e84d40, Size=432
+[2018.09.15-02.39.22:869][939]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b42872c9c0, Size=432, Default__BP_EnemyOne_C Function /Engine/Transient.REINST_BP_EnemyBase_C_211:ExecuteUbergraph_BP_EnemyBase
+[2018.09.15-02.39.22:873][939]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b437a14480, Size=432, Default__BP_EnemyBase_C Function /Game/Blueprints/Enemies/BP_EnemyBase.BP_EnemyBase_C:ExecuteUbergraph_BP_EnemyBase
+[2018.09.15-02.39.22:874][939]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b437a14640, Size=432, Default__BP_EnemyOne_C Function /Game/Blueprints/Enemies/BP_EnemyBase.BP_EnemyBase_C:ExecuteUbergraph_BP_EnemyBase
+[2018.09.15-02.39.23:068][939]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b46ac3d980, Size=432
+[2018.09.15-02.39.51:898][359]BlueprintLog: New page: Compile BP_EnemyBase
+[2018.09.15-02.39.51:914][359]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b437a14480, Size=432
+[2018.09.15-02.39.51:914][359]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b44d389980, Size=432, BP_EnemyBase_C_130 Function /Engine/Transient.REINST_BP_EnemyBase_C_219:ExecuteUbergraph_BP_EnemyBase
+[2018.09.15-02.39.51:915][359]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b437a14640, Size=432
+[2018.09.15-02.39.51:915][359]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b44d388640, Size=432, BP_EnemyOne_C_21 Function /Engine/Transient.REINST_BP_EnemyBase_C_219:ExecuteUbergraph_BP_EnemyBase
+[2018.09.15-02.39.51:919][359]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b44d3897c0, Size=432, Default__BP_EnemyBase_C Function /Game/Blueprints/Enemies/BP_EnemyBase.BP_EnemyBase_C:ExecuteUbergraph_BP_EnemyBase
+[2018.09.15-02.39.51:920][359]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b44d388d40, Size=432, Default__BP_EnemyOne_C Function /Game/Blueprints/Enemies/BP_EnemyBase.BP_EnemyBase_C:ExecuteUbergraph_BP_EnemyBase
+[2018.09.15-02.40.08:407][632]LogLinker: Warning: Can't find file '/Game/Assets/Materials/M_Pixel_Cube_Enemy_2_Inst'
+[2018.09.15-02.40.08:407][632]LogLinker: Warning: Can't find file for asset '/Game/Assets/Materials/M_Pixel_Cube_Enemy_2_Inst' while loading C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Content/Assets/Meshes/SM_Pixel_Enemy_1.uasset.
+[2018.09.15-02.40.08:407][632]LoadErrors: Error: /Game/Assets/Meshes/SM_Pixel_Enemy_1 : Can't find file for asset. /Game/Assets/Materials/M_Pixel_Cube_Enemy_2_Inst
+[2018.09.15-02.40.08:407][632]LogLinker: Warning: Can't find file '/Game/Assets/Materials/M_Pixel_Cube_Enemy_Inst'
+[2018.09.15-02.40.08:407][632]LogLinker: Warning: Can't find file for asset '/Game/Assets/Materials/M_Pixel_Cube_Enemy_Inst' while loading C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Content/Assets/Meshes/SM_Pixel_Enemy_1.uasset.
+[2018.09.15-02.40.08:407][632]LoadErrors: Error: /Game/Assets/Meshes/SM_Pixel_Enemy_1 : Can't find file for asset. /Game/Assets/Materials/M_Pixel_Cube_Enemy_Inst
+[2018.09.15-02.40.08:407][632]LogLinker: Warning: Can't find file '/Game/Assets/Materials/M_Pixel_Cube_Enemy_2_Inst'
+[2018.09.15-02.40.08:407][632]LogLinker: Warning: Can't find file for asset '/Game/Assets/Materials/M_Pixel_Cube_Enemy_2_Inst' while loading C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Content/Assets/Meshes/SM_Pixel_Enemy_1.uasset.
+[2018.09.15-02.40.08:407][632]LogLinker: Warning: Can't find file '/Game/Assets/Materials/M_Pixel_Cube_Enemy_Inst'
+[2018.09.15-02.40.08:407][632]LogLinker: Warning: Can't find file for asset '/Game/Assets/Materials/M_Pixel_Cube_Enemy_Inst' while loading C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Content/Assets/Meshes/SM_Pixel_Enemy_1.uasset.
+[2018.09.15-02.40.08:408][632]LogLinker: Warning: Can't find file '/Game/Assets/Materials/M_Pixel_Cube_Enemy_Inst'
+[2018.09.15-02.40.08:408][632]LoadErrors: Failed to load /Game/Assets/Materials/M_Pixel_Cube_Enemy_Inst.M_Pixel_Cube_Enemy_Inst Referenced by SM_Pixel_Enemy_1
+[2018.09.15-02.40.08:408][632]LogLinker: Warning: Can't find file for asset '/Game/Assets/Materials/M_Pixel_Cube_Enemy_Inst' while loading NULL.
+[2018.09.15-02.40.08:408][632]LogLinker: Warning: Can't find file '/Game/Assets/Materials/M_Pixel_Cube_Enemy_2_Inst'
+[2018.09.15-02.40.08:409][632]LoadErrors: Failed to load /Game/Assets/Materials/M_Pixel_Cube_Enemy_2_Inst.M_Pixel_Cube_Enemy_2_Inst Referenced by SM_Pixel_Enemy_1
+[2018.09.15-02.40.08:409][632]LogLinker: Warning: Can't find file for asset '/Game/Assets/Materials/M_Pixel_Cube_Enemy_2_Inst' while loading NULL.
+[2018.09.15-02.40.08:409][632]LogLinker: Warning: Can't find file '/Game/Assets/Materials/M_Pixel_Cube_Enemy_Inst'
+[2018.09.15-02.40.08:409][632]LogLinker: Warning: Can't find file for asset '/Game/Assets/Materials/M_Pixel_Cube_Enemy_Inst' while loading NULL.
+[2018.09.15-02.40.08:409][632]LogLinker: Warning: Can't find file '/Game/Assets/Materials/M_Pixel_Cube_Enemy_2_Inst'
+[2018.09.15-02.40.08:409][632]LogLinker: Warning: Can't find file for asset '/Game/Assets/Materials/M_Pixel_Cube_Enemy_2_Inst' while loading NULL.
+[2018.09.15-02.40.50:893][685]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b42a6d3e40, Size=432, Default__BP_EnemyTwo_C Function /Game/Blueprints/Enemies/BP_EnemyBase.BP_EnemyBase_C:ExecuteUbergraph_BP_EnemyBase
+[2018.09.15-02.41.24:317][ 38]BlueprintLog: New page: Compile BP_EnemyTwo
+[2018.09.15-02.41.24:321][ 38]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b42a6d3e40, Size=432
+[2018.09.15-02.41.24:321][ 38]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b4a23c9440, Size=432, Default__BP_EnemyTwo_C Function /Game/Blueprints/Enemies/BP_EnemyBase.BP_EnemyBase_C:ExecuteUbergraph_BP_EnemyBase
+[2018.09.15-02.41.24:321][ 38]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b4a23cae80, Size=432, Default__BP_EnemyTwo_C Function /Game/Blueprints/Enemies/BP_EnemyBase.BP_EnemyBase_C:ExecuteUbergraph_BP_EnemyBase
+[2018.09.15-02.42.35:727][618]BlueprintLog: New page: Compile BP_EnemyTwo
+[2018.09.15-02.42.35:732][618]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b4a23cae80, Size=432
+[2018.09.15-02.42.35:732][618]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b451ab3580, Size=432, BP_EnemyTwo_C_67 Function /Game/Blueprints/Enemies/BP_EnemyBase.BP_EnemyBase_C:ExecuteUbergraph_BP_EnemyBase
+[2018.09.15-02.42.35:733][618]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b451ab3900, Size=432, Default__BP_EnemyTwo_C Function /Game/Blueprints/Enemies/BP_EnemyBase.BP_EnemyBase_C:ExecuteUbergraph_BP_EnemyBase
+[2018.09.15-02.42.57:943][245]BlueprintLog: New page: Compile BP_EnemyOne
+[2018.09.15-02.42.57:946][245]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b44d388d40, Size=432
+[2018.09.15-02.42.57:947][245]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b4a845d0c0, Size=432, BP_EnemyOne_C_40 Function /Game/Blueprints/Enemies/BP_EnemyBase.BP_EnemyBase_C:ExecuteUbergraph_BP_EnemyBase
+[2018.09.15-02.42.57:948][245]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b4a845cb80, Size=432, Default__BP_EnemyOne_C Function /Game/Blueprints/Enemies/BP_EnemyBase.BP_EnemyBase_C:ExecuteUbergraph_BP_EnemyBase
+[2018.09.15-02.43.05:987][ 95]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.15-02.43.07:870][287]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.15-02.43.07:962][298]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.15-02.43.08:000][298]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.15-02.43.08:000][298]PIE: New page: PIE session: Main (Sep 14, 2018, 12:43:08 PM)
+[2018.09.15-02.43.08:000][298]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.09.15-02.43.08:032][298]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032135s)
+[2018.09.15-02.43.08:033][298]LogAIModule: Creating AISystem for world Main
+[2018.09.15-02.43.08:033][298]LogPlayLevel: PIE: World Init took: (0.000577s)
+[2018.09.15-02.43.08:033][298]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.032871s)
+[2018.09.15-02.43.08:076][298]LogInit: XAudio2 using 'Focusrite USB (Focusrite USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.15-02.43.08:081][298]LogInit: FAudioDevice initialized.
+[2018.09.15-02.43.08:118][298]LogLoad: Game class is 'BP_GameMode_C'
+[2018.09.15-02.43.08:120][298]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2018.09.14-19.43.08
+[2018.09.15-02.43.08:120][298]LogWorld: Bringing up level for play took: 0.000698
+[2018.09.15-02.43.08:132][298]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.692
+[2018.09.15-02.43.17:097][360]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.15-02.43.17:122][360]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.15-02.43.17:122][360]PIE: New page: PIE session: Main (Sep 14, 2018, 12:43:17 PM)
+[2018.09.15-02.43.17:122][360]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.09.15-02.43.17:123][360]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000982s)
+[2018.09.15-02.43.17:124][360]LogAIModule: Creating AISystem for world Main
+[2018.09.15-02.43.17:124][360]LogPlayLevel: PIE: World Init took: (0.000560s)
+[2018.09.15-02.43.17:124][360]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.001621s)
+[2018.09.15-02.43.17:166][360]LogInit: XAudio2 using 'Focusrite USB (Focusrite USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.15-02.43.17:171][360]LogInit: FAudioDevice initialized.
+[2018.09.15-02.43.17:204][360]LogLoad: Game class is 'BP_GameMode_C'
+[2018.09.15-02.43.17:205][360]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2018.09.14-19.43.17
+[2018.09.15-02.43.17:206][360]LogWorld: Bringing up level for play took: 0.000587
+[2018.09.15-02.43.17:207][360]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.383
+[2018.09.15-02.43.26:264][395]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.15-02.43.26:288][395]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.15-02.43.26:288][395]PIE: New page: PIE session: Main (Sep 14, 2018, 12:43:26 PM)
+[2018.09.15-02.43.26:288][395]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.09.15-02.43.26:289][395]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000933s)
+[2018.09.15-02.43.26:289][395]LogAIModule: Creating AISystem for world Main
+[2018.09.15-02.43.26:289][395]LogPlayLevel: PIE: World Init took: (0.000450s)
+[2018.09.15-02.43.26:289][395]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.001464s)
+[2018.09.15-02.43.26:333][395]LogInit: XAudio2 using 'Focusrite USB (Focusrite USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.15-02.43.26:338][395]LogInit: FAudioDevice initialized.
+[2018.09.15-02.43.26:373][395]LogLoad: Game class is 'BP_GameMode_C'
+[2018.09.15-02.43.26:374][395]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2018.09.14-19.43.26
+[2018.09.15-02.43.26:375][395]LogWorld: Bringing up level for play took: 0.000614
+[2018.09.15-02.43.26:376][395]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.448
+[2018.09.15-02.47.19:513][435]LogSavePackage: Save=16.28ms
+[2018.09.15-02.47.19:513][435]LogSavePackage: Moving 'C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Saved/Main_Auto30A61298C425D3B0F9792AC90A6B8EB6C.tmp' to 'C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Saved/Autosaves/Game/Maps/Main_Auto3.umap'
+[2018.09.15-02.47.19:514][435]LogSavePackage: Display: Finished SavePackage C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Saved/Autosaves/Game/Maps/Main_Auto3.umap
+[2018.09.15-02.47.19:523][435]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.474
+[2018.09.15-02.47.19:523][435]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.474
+[2018.09.15-02.47.19:525][435]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/BP_EnemyBase] ([1] browsable assets)...
+[2018.09.15-02.47.19:525][435]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/BP_EnemyBase]
+[2018.09.15-02.47.19:558][435]LogSavePackage: Save=31.73ms
+[2018.09.15-02.47.19:558][435]LogSavePackage: Moving 'C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Saved/BP_EnemyBase_Auto35C7518EC4CC8DF4B29AF5B92F7C739A8.tmp' to 'C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Saved/Autosaves/Game/Blueprints/Enemies/BP_EnemyBase_Auto3.uasset'
+[2018.09.15-02.47.19:560][435]LogSavePackage: Display: Finished SavePackage C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Saved/Autosaves/Game/Blueprints/Enemies/BP_EnemyBase_Auto3.uasset
+[2018.09.15-02.47.19:561][435]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/BP_EnemyOne] ([1] browsable assets)...
+[2018.09.15-02.47.19:561][435]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/BP_EnemyOne]
+[2018.09.15-02.47.19:574][435]LogSavePackage: Save=10.97ms
+[2018.09.15-02.47.19:574][435]LogSavePackage: Moving 'C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Saved/BP_EnemyOne_Auto31E24753F476849C22D108EB2894CA887.tmp' to 'C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Saved/Autosaves/Game/Blueprints/Enemies/BP_EnemyOne_Auto3.uasset'
+[2018.09.15-02.47.19:575][435]LogSavePackage: Display: Finished SavePackage C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Saved/Autosaves/Game/Blueprints/Enemies/BP_EnemyOne_Auto3.uasset
+[2018.09.15-02.47.19:575][435]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/BP_EnemyTwo] ([1] browsable assets)...
+[2018.09.15-02.47.19:575][435]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/BP_EnemyTwo]
+[2018.09.15-02.47.19:590][435]LogSavePackage: Save=13.23ms
+[2018.09.15-02.47.19:590][435]LogSavePackage: Moving 'C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Saved/BP_EnemyTwo_Auto3972642C74F34E944F479FC9C0EC7F10E.tmp' to 'C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Saved/Autosaves/Game/Blueprints/Enemies/BP_EnemyTwo_Auto3.uasset'
+[2018.09.15-02.47.19:591][435]LogSavePackage: Display: Finished SavePackage C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Saved/Autosaves/Game/Blueprints/Enemies/BP_EnemyTwo_Auto3.uasset
+[2018.09.15-02.47.19:591][435]LogFileHelpers: Auto-saving content packages took 0.067
+[2018.09.15-04.01.33:013][801]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.15-04.01.33:055][801]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.15-04.01.33:055][801]PIE: New page: PIE session: Main (Sep 14, 2018, 2:01:33 PM)
+[2018.09.15-04.01.33:056][801]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.09.15-04.01.33:059][801]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003088s)
+[2018.09.15-04.01.33:060][801]LogAIModule: Creating AISystem for world Main
+[2018.09.15-04.01.33:061][801]LogPlayLevel: PIE: World Init took: (0.001697s)
+[2018.09.15-04.01.33:061][801]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.004994s)
+[2018.09.15-04.01.33:129][801]LogInit: XAudio2 using 'Focusrite USB (Focusrite USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.15-04.01.33:136][801]LogInit: FAudioDevice initialized.
+[2018.09.15-04.01.33:171][801]LogLoad: Game class is 'BP_GameMode_C'
+[2018.09.15-04.01.33:173][801]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2018.09.14-21.01.33
+[2018.09.15-04.01.33:174][801]LogWorld: Bringing up level for play took: 0.001260
+[2018.09.15-04.01.33:177][801]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.353
+[2018.09.15-04.01.41:179][746]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.15-04.01.41:205][746]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.15-04.01.41:205][746]PIE: New page: PIE session: Main (Sep 14, 2018, 2:01:41 PM)
+[2018.09.15-04.01.41:205][746]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.09.15-04.01.41:206][746]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001023s)
+[2018.09.15-04.01.41:206][746]LogAIModule: Creating AISystem for world Main
+[2018.09.15-04.01.41:207][746]LogPlayLevel: PIE: World Init took: (0.000477s)
+[2018.09.15-04.01.41:207][746]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.001584s)
+[2018.09.15-04.01.41:248][746]LogInit: XAudio2 using 'Focusrite USB (Focusrite USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.15-04.01.41:253][746]LogInit: FAudioDevice initialized.
+[2018.09.15-04.01.41:286][746]LogLoad: Game class is 'BP_GameMode_C'
+[2018.09.15-04.01.41:287][746]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2018.09.14-21.01.41
+[2018.09.15-04.01.41:287][746]LogWorld: Bringing up level for play took: 0.000708
+[2018.09.15-04.01.41:288][746]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.464
+[2018.09.15-04.31.28:274][346]LogSavePackage: Save=19.23ms
+[2018.09.15-04.31.28:274][346]LogSavePackage: Moving 'C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Saved/Main_Auto4612612CE44FEF91DF669B1A351B4F4B1.tmp' to 'C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Saved/Autosaves/Game/Maps/Main_Auto4.umap'
+[2018.09.15-04.31.28:276][346]LogSavePackage: Display: Finished SavePackage C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Saved/Autosaves/Game/Maps/Main_Auto4.umap
+[2018.09.15-04.31.28:278][346]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.057
+[2018.09.15-04.31.28:278][346]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.057
+[2018.09.15-04.31.28:848][348]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.15-04.32.23:115][735]LogSlate: Window 'Select Path' being destroyed
+[2018.09.15-04.33.07:634][715]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.09.15-04.33.08:428][793]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.09.15-04.33.09:837][946]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.09.15-04.33.10:624][ 26]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.09.15-04.33.11:327][ 94]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.09.15-04.33.13:970][395]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.09.15-04.33.15:970][618]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.09.15-04.33.17:665][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.15-04.33.17:703][716]LogSavePackage: Save=18.29ms
+[2018.09.15-04.33.17:703][716]LogSavePackage: Moving 'C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Saved/Main5A9543A841C75FF25BA337A7726E5E27.tmp' to 'C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Content/Maps/Main.umap'
+[2018.09.15-04.33.17:709][716]LogSavePackage: Display: Finished SavePackage C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Content/Maps/Main.umap
+[2018.09.15-04.33.17:783][716]LogFileHelpers: Saving map 'Main' took 0.158
+[2018.09.15-04.33.17:786][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_GameMode" FILE="C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Content/Blueprints/BP_GameMode.uasset" SILENT=true
+[2018.09.15-04.33.17:807][716]LogSavePackage: Save=9.93ms
+[2018.09.15-04.33.17:807][716]LogSavePackage: Moving 'C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Saved/BP_GameMode0F5317CD4A36F0681E2911AFA3A0C2C4.tmp' to 'C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Content/Blueprints/BP_GameMode.uasset'
+[2018.09.15-04.33.17:813][716]LogSavePackage: Display: Finished SavePackage C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Content/Blueprints/BP_GameMode.uasset
+[2018.09.15-04.33.17:816][716]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2018.09.15-04.33.17:891][716]LogSavePackage: Save=64.15ms
+[2018.09.15-04.33.17:891][716]LogSavePackage: Moving 'C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Saved/BP_PlayerBC9CEA334A34AB63467A29A628978CBE.tmp' to 'C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Content/Blueprints/BP_Player.uasset'
+[2018.09.15-04.33.17:935][716]LogSavePackage: Display: Finished SavePackage C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Content/Blueprints/BP_Player.uasset
+[2018.09.15-04.33.17:970][716]LogSavePackage: Save=18.00ms
+[2018.09.15-04.33.17:970][716]LogSavePackage: Moving 'C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Saved/BP_ProjectilePlayerBase51F3E2584A02FB8BFF6AD69B9ED02C4F.tmp' to 'C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Content/Blueprints/Projectile_Folder/BP_ProjectilePlayerBase.uasset'
+[2018.09.15-04.33.17:976][716]LogSavePackage: Display: Finished SavePackage C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Content/Blueprints/Projectile_Folder/BP_ProjectilePlayerBase.uasset
+[2018.09.15-04.33.18:000][716]LogSavePackage: Save=10.17ms
+[2018.09.15-04.33.18:000][716]LogSavePackage: Moving 'C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Saved/BP_ProjectilePlayerPrimary9E6BB84D47BACAACB6738BB9A71AF5E5.tmp' to 'C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Content/Blueprints/Projectile_Folder/BP_ProjectilePlayerPrimary.uasset'
+[2018.09.15-04.33.18:006][716]LogSavePackage: Display: Finished SavePackage C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Content/Blueprints/Projectile_Folder/BP_ProjectilePlayerPrimary.uasset
+[2018.09.15-04.33.18:031][716]LogSavePackage: Save=9.94ms
+[2018.09.15-04.33.18:031][716]LogSavePackage: Moving 'C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Saved/BP_ProjectilePlayerSecondaryE0983F4D46F4CE1006F92AB5F240F0C9.tmp' to 'C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Content/Blueprints/Projectile_Folder/BP_ProjectilePlayerSecondary.uasset'
+[2018.09.15-04.33.18:037][716]LogSavePackage: Display: Finished SavePackage C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Content/Blueprints/Projectile_Folder/BP_ProjectilePlayerSecondary.uasset
+[2018.09.15-04.33.18:076][716]LogSavePackage: Save=32.38ms
+[2018.09.15-04.33.18:076][716]LogSavePackage: Moving 'C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Saved/BP_EnemyBase7FA01B1B4F630116C5F082AE5CC2F0B3.tmp' to 'C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Content/Blueprints/Enemies/BP_EnemyBase.uasset'
+[2018.09.15-04.33.18:081][716]LogSavePackage: Display: Finished SavePackage C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Content/Blueprints/Enemies/BP_EnemyBase.uasset
+[2018.09.15-04.33.18:097][716]LogSavePackage: Save=10.43ms
+[2018.09.15-04.33.18:097][716]LogSavePackage: Moving 'C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Saved/BP_EnemyOneB1CAAECB48177E7DE8AE6F940C925A11.tmp' to 'C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Content/Blueprints/Enemies/BP_EnemyOne.uasset'
+[2018.09.15-04.33.18:103][716]LogSavePackage: Display: Finished SavePackage C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Content/Blueprints/Enemies/BP_EnemyOne.uasset
+[2018.09.15-04.33.18:117][716]LogSavePackage: Save=9.13ms
+[2018.09.15-04.33.18:117][716]LogSavePackage: Moving 'C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Saved/BP_EnemySpawnerF63D553245180E83B68E1E89C42E81A5.tmp' to 'C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Content/Blueprints/Enemies/BP_EnemySpawner.uasset'
+[2018.09.15-04.33.18:120][716]LogSavePackage: Display: Finished SavePackage C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Content/Blueprints/Enemies/BP_EnemySpawner.uasset
+[2018.09.15-04.33.18:139][716]LogSavePackage: Save=13.09ms
+[2018.09.15-04.33.18:139][716]LogSavePackage: Moving 'C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Saved/BP_EnemyTwoCA39F99C4BA0562C1EC72BBE7AB28E3B.tmp' to 'C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Content/Blueprints/Enemies/BP_EnemyTwo.uasset'
+[2018.09.15-04.33.18:141][716]LogSavePackage: Display: Finished SavePackage C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Content/Blueprints/Enemies/BP_EnemyTwo.uasset
+[2018.09.15-04.38.34:768][ 59]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b42bc041b8, Size=4, Default__SKEL_BP_EnemySpawner_C Function /Game/Blueprints/Enemies/BP_EnemySpawner.SKEL_BP_EnemySpawner_C:ExecuteUbergraph_BP_EnemySpawner
+[2018.09.15-04.38.40:928][788]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b42bc041b8, Size=4
+[2018.09.15-04.38.40:928][788]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3ddd40420, Size=4, Default__SKEL_BP_EnemySpawner_C Function /Engine/Transient.REINST_SKEL_BP_EnemySpawner_C_251:ExecuteUbergraph_BP_EnemySpawner
+[2018.09.15-04.38.40:929][788]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3ddd41038, Size=4, Default__SKEL_BP_EnemySpawner_C Function /Game/Blueprints/Enemies/BP_EnemySpawner.SKEL_BP_EnemySpawner_C:ExecuteUbergraph_BP_EnemySpawner
+[2018.09.15-04.43.18:069][923]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b44d388640, Size=432
+[2018.09.15-04.43.18:069][923]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b44d389980, Size=432
+[2018.09.15-04.43.18:069][923]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b429b4e6c0, Size=4
+[2018.09.15-04.43.18:069][923]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b451ab3580, Size=432
+[2018.09.15-04.43.18:069][923]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b4a845d0c0, Size=432
+[2018.09.15-04.43.18:069][923]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b42872c640, Size=432
+[2018.09.15-04.43.18:075][923]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b4a23c9440, Size=432
+[2018.09.15-04.43.18:075][923]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b4002870c0, Size=32
+[2018.09.15-04.43.18:075][923]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3c1784828, Size=4
+[2018.09.15-04.43.18:075][923]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3c1785e88, Size=4
+[2018.09.15-04.43.18:075][923]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3c1786060, Size=4
+[2018.09.15-04.43.18:075][923]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b429b4d088, Size=4
+[2018.09.15-04.43.18:075][923]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b4454cd2b0, Size=4
+[2018.09.15-04.43.18:075][923]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b4454ce230, Size=4
+[2018.09.15-04.43.18:078][923]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b429b4e6c8, Size=4
+[2018.09.15-04.43.18:082][923]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b429b4e608, Size=4
+[2018.09.15-04.43.18:088][923]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b42872c9c0, Size=432
+[2018.09.15-04.43.18:090][923]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3c1784ba8, Size=4
+[2018.09.15-04.43.18:090][923]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3c1785d80, Size=4
+[2018.09.15-04.43.18:090][923]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3c1786df8, Size=4
+[2018.09.15-04.43.18:093][923]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.041
+[2018.09.15-04.43.18:094][923]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/BP_EnemySpawner] ([1] browsable assets)...
+[2018.09.15-04.43.18:094][923]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/BP_EnemySpawner]
+[2018.09.15-04.43.18:137][923]LogSavePackage: Save=13.03ms
+[2018.09.15-04.43.18:137][923]LogSavePackage: Moving 'C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Saved/BP_EnemySpawner_Auto52247C5574DAF9D9B8F9A4CB8602EE60A.tmp' to 'C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Saved/Autosaves/Game/Blueprints/Enemies/BP_EnemySpawner_Auto5.uasset'
+[2018.09.15-04.43.18:138][923]LogSavePackage: Display: Finished SavePackage C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Saved/Autosaves/Game/Blueprints/Enemies/BP_EnemySpawner_Auto5.uasset
+[2018.09.15-04.43.18:138][923]LogFileHelpers: Auto-saving content packages took 0.044
+[2018.09.15-04.58.54:486][228]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3ddd41038, Size=4
+[2018.09.15-04.58.54:486][228]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b40fabdc70, Size=4, Default__SKEL_BP_EnemySpawner_C Function /Engine/Transient.REINST_SKEL_BP_EnemySpawner_C_253:ExecuteUbergraph_BP_EnemySpawner
+[2018.09.15-04.58.54:488][228]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b40fabdc20, Size=4, Default__SKEL_BP_EnemySpawner_C Function /Game/Blueprints/Enemies/BP_EnemySpawner.SKEL_BP_EnemySpawner_C:ExecuteUbergraph_BP_EnemySpawner
+[2018.09.15-04.59.10:251][ 40]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b40fabdc20, Size=4
+[2018.09.15-04.59.10:251][ 40]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b438c6c630, Size=4, Default__SKEL_BP_EnemySpawner_C Function /Engine/Transient.REINST_SKEL_BP_EnemySpawner_C_255:ExecuteUbergraph_BP_EnemySpawner
+[2018.09.15-04.59.10:252][ 40]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b438c6c698, Size=4, Default__SKEL_BP_EnemySpawner_C Function /Game/Blueprints/Enemies/BP_EnemySpawner.SKEL_BP_EnemySpawner_C:ExecuteUbergraph_BP_EnemySpawner
+[2018.09.15-04.59.31:084][255]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b438c6c698, Size=4
+[2018.09.15-04.59.31:084][255]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3db8bb4d8, Size=4, Default__SKEL_BP_EnemySpawner_C Function /Engine/Transient.REINST_SKEL_BP_EnemySpawner_C_257:ExecuteUbergraph_BP_EnemySpawner
+[2018.09.15-04.59.31:085][255]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3db8b8838, Size=4, Default__SKEL_BP_EnemySpawner_C Function /Game/Blueprints/Enemies/BP_EnemySpawner.SKEL_BP_EnemySpawner_C:ExecuteUbergraph_BP_EnemySpawner
+[2018.09.15-04.59.58:158][388]BlueprintLog: New page: Compile BP_EnemySpawner
+[2018.09.15-04.59.58:162][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3db8b8838, Size=4
+[2018.09.15-04.59.58:162][388]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b437017eb8, Size=4, Default__SKEL_BP_EnemySpawner_C Function /Engine/Transient.REINST_SKEL_BP_EnemySpawner_C_259:ExecuteUbergraph_BP_EnemySpawner
+[2018.09.15-04.59.58:166][388]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b40fa56728, Size=40, Default__BP_EnemySpawner_C Function /Game/Blueprints/Enemies/BP_EnemySpawner.BP_EnemySpawner_C:ExecuteUbergraph_BP_EnemySpawner
+[2018.09.15-04.59.58:418][388]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b437017eb8, Size=4
+[2018.09.15-05.00.18:422][396]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b42054c398, Size=4, Default__SKEL_BP_GameMode_C Function /Game/Blueprints/BP_GameMode.SKEL_BP_GameMode_C:ExecuteUbergraph_BP_GameMode
+[2018.09.15-05.00.24:713][148]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b42054c398, Size=4
+[2018.09.15-05.00.24:713][148]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b438c6fed8, Size=4, Default__SKEL_BP_GameMode_C Function /Engine/Transient.REINST_SKEL_BP_GameMode_C_265:ExecuteUbergraph_BP_GameMode
+[2018.09.15-05.00.24:713][148]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b438c6ff30, Size=4, Default__SKEL_BP_GameMode_C Function /Game/Blueprints/BP_GameMode.SKEL_BP_GameMode_C:ExecuteUbergraph_BP_GameMode
+[2018.09.15-05.00.28:568][603]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b438c6ff30, Size=4
+[2018.09.15-05.00.28:568][603]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b438c6ff30, Size=4, Default__SKEL_BP_GameMode_C Function /Engine/Transient.REINST_SKEL_BP_GameMode_C_267:ExecuteUbergraph_BP_GameMode
+[2018.09.15-05.00.28:569][603]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b438c6d5d0, Size=4, Default__SKEL_BP_GameMode_C Function /Game/Blueprints/BP_GameMode.SKEL_BP_GameMode_C:ExecuteUbergraph_BP_GameMode
+[2018.09.15-05.00.30:251][802]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b438c6d5d0, Size=4
+[2018.09.15-05.00.30:251][802]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b438c6d5d0, Size=4, Default__SKEL_BP_GameMode_C Function /Engine/Transient.REINST_SKEL_BP_GameMode_C_269:ExecuteUbergraph_BP_GameMode
+[2018.09.15-05.00.30:252][802]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b438c6e800, Size=4, Default__SKEL_BP_GameMode_C Function /Game/Blueprints/BP_GameMode.SKEL_BP_GameMode_C:ExecuteUbergraph_BP_GameMode
+[2018.09.15-05.00.35:582][439]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b438c6e800, Size=4
+[2018.09.15-05.00.35:582][439]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b438c6e800, Size=4, Default__SKEL_BP_GameMode_C Function /Engine/Transient.REINST_SKEL_BP_GameMode_C_271:ExecuteUbergraph_BP_GameMode
+[2018.09.15-05.00.35:583][439]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b438c6e760, Size=4, Default__SKEL_BP_GameMode_C Function /Game/Blueprints/BP_GameMode.SKEL_BP_GameMode_C:ExecuteUbergraph_BP_GameMode
+[2018.09.15-05.00.39:596][918]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b438c6e760, Size=4
+[2018.09.15-05.00.39:596][918]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b438c6e760, Size=4, Default__SKEL_BP_GameMode_C Function /Engine/Transient.REINST_SKEL_BP_GameMode_C_273:ExecuteUbergraph_BP_GameMode
+[2018.09.15-05.00.39:596][918]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b438c6f948, Size=4, Default__SKEL_BP_GameMode_C Function /Game/Blueprints/BP_GameMode.SKEL_BP_GameMode_C:ExecuteUbergraph_BP_GameMode
+[2018.09.15-05.00.46:822][782]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b438c6f948, Size=4
+[2018.09.15-05.00.46:822][782]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b438c6f948, Size=4, Default__SKEL_BP_GameMode_C Function /Engine/Transient.REINST_SKEL_BP_GameMode_C_275:ExecuteUbergraph_BP_GameMode
+[2018.09.15-05.00.46:823][782]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b438c6eb78, Size=4, Default__SKEL_BP_GameMode_C Function /Game/Blueprints/BP_GameMode.SKEL_BP_GameMode_C:ExecuteUbergraph_BP_GameMode
+[2018.09.15-05.00.48:667][  1]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b438c6eb78, Size=4
+[2018.09.15-05.00.48:667][  1]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b438c6eb78, Size=4, Default__SKEL_BP_GameMode_C Function /Engine/Transient.REINST_SKEL_BP_GameMode_C_277:ExecuteUbergraph_BP_GameMode
+[2018.09.15-05.00.48:668][  1]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b438c6ccb0, Size=4, Default__SKEL_BP_GameMode_C Function /Game/Blueprints/BP_GameMode.SKEL_BP_GameMode_C:ExecuteUbergraph_BP_GameMode
+[2018.09.15-05.00.50:807][207]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b438c6ccb0, Size=4
+[2018.09.15-05.00.50:807][207]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b438c6ccb0, Size=4, Default__SKEL_BP_GameMode_C Function /Engine/Transient.REINST_SKEL_BP_GameMode_C_279:ExecuteUbergraph_BP_GameMode
+[2018.09.15-05.00.50:807][207]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b438c6c540, Size=4, Default__SKEL_BP_GameMode_C Function /Game/Blueprints/BP_GameMode.SKEL_BP_GameMode_C:ExecuteUbergraph_BP_GameMode
+[2018.09.15-05.00.52:923][459]Cmd: TRANSACTION UNDO
+[2018.09.15-05.00.52:923][459]LogEditorTransaction: Undo Rename Function
+[2018.09.15-05.00.52:966][459]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b438c6c540, Size=4
+[2018.09.15-05.00.52:966][459]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b438c6c540, Size=4, Default__SKEL_BP_GameMode_C Function /Engine/Transient.REINST_SKEL_BP_GameMode_C_281:ExecuteUbergraph_BP_GameMode
+[2018.09.15-05.00.52:967][459]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b438c6ed88, Size=4, Default__SKEL_BP_GameMode_C Function /Game/Blueprints/BP_GameMode.SKEL_BP_GameMode_C:ExecuteUbergraph_BP_GameMode
+[2018.09.15-05.00.54:266][612]Cmd: TRANSACTION UNDO
+[2018.09.15-05.00.54:266][612]LogEditorTransaction: Undo Add New Function
+[2018.09.15-05.00.54:268][612]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b438c6ed88, Size=4
+[2018.09.15-05.00.54:268][612]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b438c6ed88, Size=4, Default__SKEL_BP_GameMode_C Function /Engine/Transient.REINST_SKEL_BP_GameMode_C_283:ExecuteUbergraph_BP_GameMode
+[2018.09.15-05.00.54:269][612]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b438c6d520, Size=4, Default__SKEL_BP_GameMode_C Function /Game/Blueprints/BP_GameMode.SKEL_BP_GameMode_C:ExecuteUbergraph_BP_GameMode
+[2018.09.15-05.00.55:395][745]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b438c6d520, Size=4
+[2018.09.15-05.00.55:395][745]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b438c6d520, Size=4, Default__SKEL_BP_GameMode_C Function /Engine/Transient.REINST_SKEL_BP_GameMode_C_285:ExecuteUbergraph_BP_GameMode
+[2018.09.15-05.00.55:396][745]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b438c6e6e8, Size=4, Default__SKEL_BP_GameMode_C Function /Game/Blueprints/BP_GameMode.SKEL_BP_GameMode_C:ExecuteUbergraph_BP_GameMode
+[2018.09.15-05.00.57:244][964]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b438c6e6e8, Size=4
+[2018.09.15-05.00.57:244][964]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b438c6e6e8, Size=4, Default__SKEL_BP_GameMode_C Function /Engine/Transient.REINST_SKEL_BP_GameMode_C_287:ExecuteUbergraph_BP_GameMode
+[2018.09.15-05.00.57:245][964]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b438c6c9b8, Size=4, Default__SKEL_BP_GameMode_C Function /Game/Blueprints/BP_GameMode.SKEL_BP_GameMode_C:ExecuteUbergraph_BP_GameMode
+[2018.09.15-05.01.02:552][247]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b438c6c9b8, Size=4
+[2018.09.15-05.01.02:552][247]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b438c6c9b8, Size=4, Default__SKEL_BP_GameMode_C Function /Engine/Transient.REINST_SKEL_BP_GameMode_C_289:ExecuteUbergraph_BP_GameMode
+[2018.09.15-05.01.02:554][247]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b438c6db08, Size=4, Default__SKEL_BP_GameMode_C Function /Game/Blueprints/BP_GameMode.SKEL_BP_GameMode_C:ExecuteUbergraph_BP_GameMode
+[2018.09.15-05.01.05:506][598]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b438c6db08, Size=4
+[2018.09.15-05.01.05:506][598]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b438c6db08, Size=4, Default__SKEL_BP_GameMode_C Function /Engine/Transient.REINST_SKEL_BP_GameMode_C_291:ExecuteUbergraph_BP_GameMode
+[2018.09.15-05.01.05:507][598]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b438c6fb60, Size=4, Default__SKEL_BP_GameMode_C Function /Game/Blueprints/BP_GameMode.SKEL_BP_GameMode_C:ExecuteUbergraph_BP_GameMode
+[2018.09.15-05.01.18:086][ 55]BlueprintLog: New page: Compile BP_GameMode
+[2018.09.15-05.01.18:089][ 55]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b438c6fb60, Size=4
+[2018.09.15-05.01.18:089][ 55]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b438c6fb60, Size=4, Default__SKEL_BP_GameMode_C Function /Engine/Transient.REINST_SKEL_BP_GameMode_C_298:ExecuteUbergraph_BP_GameMode
+[2018.09.15-05.01.18:094][ 55]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b429b4d8a8, Size=8
+[2018.09.15-05.01.18:094][ 55]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b438c6e230, Size=8, Default__BP_GameMode_C Function /Engine/Transient.REINST_BP_GameMode_C_303:ExecuteUbergraph_BP_GameMode
+[2018.09.15-05.01.18:095][ 55]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b438c6f760, Size=8, Default__BP_GameMode_C Function /Game/Blueprints/BP_GameMode.BP_GameMode_C:ExecuteUbergraph_BP_GameMode
+[2018.09.15-05.01.18:235][ 55]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b438c6fb60, Size=4
+[2018.09.15-05.01.18:235][ 55]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b438c6db08, Size=4
+[2018.09.15-05.01.18:236][ 55]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b438c6c9b8, Size=4
+[2018.09.15-05.01.18:236][ 55]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b438c6e6e8, Size=4
+[2018.09.15-05.01.18:236][ 55]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b438c6d520, Size=4
+[2018.09.15-05.01.18:236][ 55]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b438c6ed88, Size=4
+[2018.09.15-05.01.18:236][ 55]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b438c6c540, Size=4
+[2018.09.15-05.01.18:236][ 55]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b438c6ccb0, Size=4
+[2018.09.15-05.01.18:236][ 55]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b438c6eb78, Size=4
+[2018.09.15-05.01.18:236][ 55]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b438c6f948, Size=4
+[2018.09.15-05.01.18:236][ 55]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b438c6e760, Size=4
+[2018.09.15-05.01.18:236][ 55]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b438c6e800, Size=4
+[2018.09.15-05.01.18:236][ 55]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b438c6d5d0, Size=4
+[2018.09.15-05.01.18:236][ 55]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b438c6ff30, Size=4
+[2018.09.15-05.01.18:236][ 55]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b438c6fed8, Size=4
+[2018.09.15-05.01.36:172][154]BlueprintLog: New page: Compile BP_GameMode
+[2018.09.15-05.01.36:181][154]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b438c6f760, Size=8
+[2018.09.15-05.01.36:181][154]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b438c6f760, Size=8, BP_GameMode_C_65 Function /Engine/Transient.REINST_BP_GameMode_C_315:ExecuteUbergraph_BP_GameMode
+[2018.09.15-05.01.36:182][154]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b438c6c5b0, Size=8, Default__BP_GameMode_C Function /Game/Blueprints/BP_GameMode.BP_GameMode_C:ExecuteUbergraph_BP_GameMode
+[2018.09.15-05.01.36:320][154]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b438c6e230, Size=8
+[2018.09.15-05.02.06:474][221]LogEditorTransaction: Undo Delete current selection
+[2018.09.15-05.02.06:477][221]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b42b5c4ed0, Size=4, Default__SKEL_BP_GameMode_C Function /Game/Blueprints/BP_GameMode.SKEL_BP_GameMode_C:ExecuteUbergraph_BP_GameMode
+[2018.09.15-05.02.07:325][319]LogEditorTransaction: Undo Add Node
+[2018.09.15-05.02.07:326][319]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b42b5c6848, Size=4, Default__SKEL_BP_EnemySpawner_C Function /Game/Blueprints/Enemies/BP_EnemySpawner.SKEL_BP_EnemySpawner_C:ExecuteUbergraph_BP_EnemySpawner
+[2018.09.15-05.02.08:160][419]LogEditorTransaction: Undo Delete current selection
+[2018.09.15-05.02.08:161][419]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b42b5c6848, Size=4
+[2018.09.15-05.02.08:161][419]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b438c6c100, Size=4, Default__SKEL_BP_EnemySpawner_C Function /Engine/Transient.REINST_SKEL_BP_EnemySpawner_C_323:ExecuteUbergraph_BP_EnemySpawner
+[2018.09.15-05.02.08:162][419]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b438c6ff98, Size=4, Default__SKEL_BP_EnemySpawner_C Function /Game/Blueprints/Enemies/BP_EnemySpawner.SKEL_BP_EnemySpawner_C:ExecuteUbergraph_BP_EnemySpawner
+[2018.09.15-05.02.08:569][468]LogEditorTransaction: Undo Edit Max Enemies
+[2018.09.15-05.05.26:345][968]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b438c6ff98, Size=4
+[2018.09.15-05.05.26:345][968]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b40f5e87b0, Size=4, Default__SKEL_BP_EnemySpawner_C Function /Engine/Transient.REINST_SKEL_BP_EnemySpawner_C_325:ExecuteUbergraph_BP_EnemySpawner
+[2018.09.15-05.05.26:346][968]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b40f5e95e8, Size=4, Default__SKEL_BP_EnemySpawner_C Function /Game/Blueprints/Enemies/BP_EnemySpawner.SKEL_BP_EnemySpawner_C:ExecuteUbergraph_BP_EnemySpawner
+[2018.09.15-05.05.32:763][733]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b40f5e95e8, Size=4
+[2018.09.15-05.05.32:763][733]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b40f5e95e8, Size=4, Default__SKEL_BP_EnemySpawner_C Function /Engine/Transient.REINST_SKEL_BP_EnemySpawner_C_327:ExecuteUbergraph_BP_EnemySpawner
+[2018.09.15-05.05.32:764][733]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b40f5e94a8, Size=4, Default__SKEL_BP_EnemySpawner_C Function /Game/Blueprints/Enemies/BP_EnemySpawner.SKEL_BP_EnemySpawner_C:ExecuteUbergraph_BP_EnemySpawner
+[2018.09.15-05.05.47:285][ 87]LogSlate: Window 'Change Variable Type' being destroyed
+[2018.09.15-05.05.51:883][636]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b40f5e94a8, Size=4
+[2018.09.15-05.05.51:883][636]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b40febe2d8, Size=4, Default__SKEL_BP_EnemySpawner_C Function /Engine/Transient.REINST_SKEL_BP_EnemySpawner_C_329:ExecuteUbergraph_BP_EnemySpawner
+[2018.09.15-05.05.51:884][636]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b40febe2a8, Size=4, Default__SKEL_BP_EnemySpawner_C Function /Game/Blueprints/Enemies/BP_EnemySpawner.SKEL_BP_EnemySpawner_C:ExecuteUbergraph_BP_EnemySpawner
+[2018.09.15-05.05.55:464][ 58]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b40febe2a8, Size=4
+[2018.09.15-05.05.55:464][ 58]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b40f5eb780, Size=4, Default__SKEL_BP_EnemySpawner_C Function /Engine/Transient.REINST_SKEL_BP_EnemySpawner_C_331:ExecuteUbergraph_BP_EnemySpawner
+[2018.09.15-05.05.55:465][ 58]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b40f5e85b8, Size=4, Default__SKEL_BP_EnemySpawner_C Function /Game/Blueprints/Enemies/BP_EnemySpawner.SKEL_BP_EnemySpawner_C:ExecuteUbergraph_BP_EnemySpawner
+[2018.09.15-05.06.27:106][764]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b40f5e85b8, Size=4
+[2018.09.15-05.06.27:106][764]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b43e70bc68, Size=4, Default__SKEL_BP_EnemySpawner_C Function /Engine/Transient.REINST_SKEL_BP_EnemySpawner_C_333:ExecuteUbergraph_BP_EnemySpawner
+[2018.09.15-05.06.27:108][764]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b43e70a0f0, Size=4, Default__SKEL_BP_EnemySpawner_C Function /Game/Blueprints/Enemies/BP_EnemySpawner.SKEL_BP_EnemySpawner_C:ExecuteUbergraph_BP_EnemySpawner
+[2018.09.15-05.06.48:674][759]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b43e70a0f0, Size=4
+[2018.09.15-05.06.48:674][759]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3e1a3f358, Size=4, Default__SKEL_BP_EnemySpawner_C Function /Engine/Transient.REINST_SKEL_BP_EnemySpawner_C_335:ExecuteUbergraph_BP_EnemySpawner
+[2018.09.15-05.06.48:675][759]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3e1a3ec90, Size=4, Default__SKEL_BP_EnemySpawner_C Function /Game/Blueprints/Enemies/BP_EnemySpawner.SKEL_BP_EnemySpawner_C:ExecuteUbergraph_BP_EnemySpawner
+[2018.09.15-05.08.27:116][387]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.15-05.08.57:764][320]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b438c6f760, Size=8
+[2018.09.15-05.08.57:764][320]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b438c6c100, Size=4
+[2018.09.15-05.08.57:797][320]LogSavePackage: Save=17.45ms
+[2018.09.15-05.08.57:797][320]LogSavePackage: Moving 'C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Saved/Main_Auto65F2986264C8007A782F8B2953A0155C1.tmp' to 'C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Saved/Autosaves/Game/Maps/Main_Auto6.umap'
+[2018.09.15-05.08.57:798][320]LogSavePackage: Display: Finished SavePackage C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Saved/Autosaves/Game/Maps/Main_Auto6.umap
+[2018.09.15-05.08.57:800][320]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Main' took 0.052
+[2018.09.15-05.08.57:800][320]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.052
+[2018.09.15-05.08.57:802][320]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_GameMode] ([1] browsable assets)...
+[2018.09.15-05.08.57:802][320]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_GameMode]
+[2018.09.15-05.08.57:823][320]LogSavePackage: Save=9.63ms
+[2018.09.15-05.08.57:823][320]LogSavePackage: Moving 'C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Saved/BP_GameMode_Auto635B091F5488E8BD40F4930875DCE391D.tmp' to 'C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Saved/Autosaves/Game/Blueprints/BP_GameMode_Auto6.uasset'
+[2018.09.15-05.08.57:824][320]LogSavePackage: Display: Finished SavePackage C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Saved/Autosaves/Game/Blueprints/BP_GameMode_Auto6.uasset
+[2018.09.15-05.08.57:825][320]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Enemies/BP_EnemySpawner] ([1] browsable assets)...
+[2018.09.15-05.08.57:825][320]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Enemies/BP_EnemySpawner]
+[2018.09.15-05.08.57:857][320]LogSavePackage: Save=21.87ms
+[2018.09.15-05.08.57:857][320]LogSavePackage: Moving 'C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Saved/BP_EnemySpawner_Auto69B7F4E6C4B5887A05F8A3A9BA0C2251E.tmp' to 'C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Saved/Autosaves/Game/Blueprints/Enemies/BP_EnemySpawner_Auto6.uasset'
+[2018.09.15-05.08.57:858][320]LogSavePackage: Display: Finished SavePackage C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Saved/Autosaves/Game/Blueprints/Enemies/BP_EnemySpawner_Auto6.uasset
+[2018.09.15-05.08.57:858][320]LogFileHelpers: Auto-saving content packages took 0.058
+[2018.09.15-05.09.50:517][894]BlueprintLog: New page: Compile BP_EnemySpawner
+[2018.09.15-05.09.50:523][894]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3e1a3ec90, Size=4
+[2018.09.15-05.09.50:523][894]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b40f374fc0, Size=4, Default__SKEL_BP_EnemySpawner_C Function /Engine/Transient.REINST_SKEL_BP_EnemySpawner_C_337:ExecuteUbergraph_BP_EnemySpawner
+[2018.09.15-05.09.50:530][894]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b40fa56728, Size=40
+[2018.09.15-05.09.50:530][894]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b48f5dbd08, Size=40, BP_EnemySpawner_C_1 Function /Engine/Transient.REINST_BP_EnemySpawner_C_339:ExecuteUbergraph_BP_EnemySpawner
+[2018.09.15-05.09.50:532][894]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b418b0df80, Size=128, Default__BP_EnemySpawner_C Function /Game/Blueprints/Enemies/BP_EnemySpawner.BP_EnemySpawner_C:ExecuteUbergraph_BP_EnemySpawner
+[2018.09.15-05.09.50:758][894]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b40f374fc0, Size=4
+[2018.09.15-05.12.34:813][589]BlueprintLog: New page: Compile BP_EnemySpawner
+[2018.09.15-05.12.34:825][589]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b418b0df80, Size=128
+[2018.09.15-05.12.34:825][589]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3eef4fa80, Size=128, BP_EnemySpawner_C_2 Function /Engine/Transient.REINST_BP_EnemySpawner_C_343:ExecuteUbergraph_BP_EnemySpawner
+[2018.09.15-05.12.34:829][589]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b3eef4cd00, Size=128, Default__BP_EnemySpawner_C Function /Game/Blueprints/Enemies/BP_EnemySpawner.BP_EnemySpawner_C:ExecuteUbergraph_BP_EnemySpawner
+[2018.09.15-05.14.39:900][987]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.09.15-05.14.45:797][681]BlueprintLog: New page: Compile BP_EnemySpawner
+[2018.09.15-05.14.45:811][681]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3eef4cd00, Size=128
+[2018.09.15-05.14.45:811][681]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b4151c8300, Size=128, BP_EnemySpawner_C_3 Function /Engine/Transient.REINST_BP_EnemySpawner_C_347:ExecuteUbergraph_BP_EnemySpawner
+[2018.09.15-05.14.45:814][681]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b40f60d980, Size=208, Default__BP_EnemySpawner_C Function /Game/Blueprints/Enemies/BP_EnemySpawner.BP_EnemySpawner_C:ExecuteUbergraph_BP_EnemySpawner
+[2018.09.15-05.14.46:055][681]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3eef4fa80, Size=128
+[2018.09.15-05.14.53:233][466]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BG)
+[2018.09.15-05.14.54:129][561]LogEditorViewport: Clicking on Actor (LMB): BP_EnemyOne_C (BP_EnemyOne)
+[2018.09.15-05.14.56:323][811]Cmd: DELETE
+[2018.09.15-05.14.56:323][811]Cmd: ACTOR DELETE
+[2018.09.15-05.14.56:692][811]LogEditorActor: Deleted Actor: BP_EnemyOne_C
+[2018.09.15-05.14.56:707][811]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b4151c8300, Size=128
+[2018.09.15-05.14.56:708][811]LogEditorActor: Deleted 1 Actors (0.073 secs)
+[2018.09.15-05.14.57:269][876]LogEditorViewport: Clicking on Actor (LMB): BP_EnemyTwo_C (BP_EnemyTwo)
+[2018.09.15-05.14.57:641][915]Cmd: DELETE
+[2018.09.15-05.14.57:641][915]Cmd: ACTOR DELETE
+[2018.09.15-05.14.57:642][915]LogEditorActor: Deleted Actor: BP_EnemyTwo_C
+[2018.09.15-05.14.57:659][915]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2018.09.15-05.14.58:817][ 52]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.15-05.14.59:020][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main" FILE="C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Content/Maps/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.15-05.14.59:061][ 66]LogSavePackage: Save=15.61ms
+[2018.09.15-05.14.59:061][ 66]LogSavePackage: Moving 'C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Saved/Main905DD31C4E1C82F1D084238D2B18277A.tmp' to 'C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Content/Maps/Main.umap'
+[2018.09.15-05.14.59:066][ 66]LogSavePackage: Display: Finished SavePackage C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Content/Maps/Main.umap
+[2018.09.15-05.14.59:094][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Main_BuiltData" FILE="C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Content/Maps/Main_BuiltData.uasset" SILENT=true
+[2018.09.15-05.14.59:145][ 66]LogSavePackage: Save=40.12ms
+[2018.09.15-05.14.59:145][ 66]LogSavePackage: Moving 'C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Saved/Main_BuiltDataC662F3FB413980D036837D9C21E88A25.tmp' to 'C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Content/Maps/Main_BuiltData.uasset'
+[2018.09.15-05.14.59:146][ 66]LogSavePackage: Display: Finished SavePackage C:/Users/Hesi/Documents/GitHub/Shmup_Unreal_Hesi/Hesi_Unreal_Shmup/my_shmup_Hesi/Content/Maps/Main_BuiltData.uasset
+[2018.09.15-05.14.59:830][146]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.15-05.14.59:860][146]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.09.15-05.14.59:863][146]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b42b5c4ed0, Size=4
+[2018.09.15-05.14.59:863][146]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b437015c98, Size=4, Default__SKEL_BP_GameMode_C Function /Engine/Transient.REINST_SKEL_BP_GameMode_C_354:ExecuteUbergraph_BP_GameMode
+[2018.09.15-05.14.59:868][146]LogPlayLevel: [PlayLevel] Compiling BP_GameMode before play...
+[2018.09.15-05.14.59:869][146]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b438c6c5b0, Size=8
+[2018.09.15-05.14.59:869][146]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b437015ab8, Size=8, Default__BP_GameMode_C Function /Engine/Transient.REINST_BP_GameMode_C_359:ExecuteUbergraph_BP_GameMode
+[2018.09.15-05.14.59:870][146]LogUObjectGlobals: Created PersistentFrame Addr=0x000001b437017a80, Size=8, Default__BP_GameMode_C Function /Game/Blueprints/BP_GameMode.BP_GameMode_C:ExecuteUbergraph_BP_GameMode
+[2018.09.15-05.15.00:029][146]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b40f5e87b0, Size=4
+[2018.09.15-05.15.00:029][146]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3e1a3f358, Size=4
+[2018.09.15-05.15.00:029][146]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b43e70bc68, Size=4
+[2018.09.15-05.15.00:029][146]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b40f5eb780, Size=4
+[2018.09.15-05.15.00:029][146]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b40febe2d8, Size=4
+[2018.09.15-05.15.00:029][146]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b437015c98, Size=4
+[2018.09.15-05.15.00:029][146]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b40f5e95e8, Size=4
+[2018.09.15-05.15.00:029][146]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b437015ab8, Size=8
+[2018.09.15-05.15.00:029][146]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b40fabdc70, Size=4
+[2018.09.15-05.15.00:029][146]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3ddd40420, Size=4
+[2018.09.15-05.15.00:029][146]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b48f5dbd08, Size=40
+[2018.09.15-05.15.00:029][146]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b3db8bb4d8, Size=4
+[2018.09.15-05.15.00:029][146]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001b438c6c630, Size=4
+[2018.09.15-05.15.00:030][146]LogPlayLevel: PlayLevel: Blueprint regeneration took 169 ms (1 blueprints)
+[2018.09.15-05.15.00:031][146]PIE: New page: PIE session: Main (Sep 14, 2018, 3:15:00 PM)
+[2018.09.15-05.15.00:031][146]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.09.15-05.15.00:033][146]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001429s)
+[2018.09.15-05.15.00:033][146]LogAIModule: Creating AISystem for world Main
+[2018.09.15-05.15.00:033][146]LogPlayLevel: PIE: World Init took: (0.000839s)
+[2018.09.15-05.15.00:033][146]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002435s)
+[2018.09.15-05.15.00:074][146]LogInit: XAudio2 using 'Focusrite USB (Focusrite USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.15-05.15.00:081][146]LogInit: FAudioDevice initialized.
+[2018.09.15-05.15.00:116][146]LogLoad: Game class is 'BP_GameMode_C'
+[2018.09.15-05.15.00:118][146]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2018.09.14-22.15.00
+[2018.09.15-05.15.00:157][146]LogWorld: Bringing up level for play took: 0.039297
+[2018.09.15-05.15.00:159][146]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.665
+[2018.09.15-05.15.11:594][501]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.15-05.15.14:502][798]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.15-05.15.14:521][798]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.15-05.15.14:521][798]PIE: New page: PIE session: Main (Sep 14, 2018, 3:15:14 PM)
+[2018.09.15-05.15.14:521][798]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.09.15-05.15.14:522][798]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001063s)
+[2018.09.15-05.15.14:523][798]LogAIModule: Creating AISystem for world Main
+[2018.09.15-05.15.14:523][798]LogPlayLevel: PIE: World Init took: (0.000901s)
+[2018.09.15-05.15.14:523][798]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002078s)
+[2018.09.15-05.15.14:560][798]LogInit: XAudio2 using 'Focusrite USB (Focusrite USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.15-05.15.14:566][798]LogInit: FAudioDevice initialized.
+[2018.09.15-05.15.14:595][798]LogLoad: Game class is 'BP_GameMode_C'
+[2018.09.15-05.15.14:596][798]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2018.09.14-22.15.14
+[2018.09.15-05.15.14:596][798]LogWorld: Bringing up level for play took: 0.000489
+[2018.09.15-05.15.14:597][798]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.227
+[2018.09.15-05.16.45:165][948]LogEditorViewport: Clicking on Actor (LMB): CameraActor (CameraActor)
+[2018.09.15-05.16.48:107][241]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.15-05.16.48:567][294]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.15-05.16.48:595][294]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.15-05.16.48:595][294]PIE: New page: PIE session: Main (Sep 14, 2018, 3:16:48 PM)
+[2018.09.15-05.16.48:595][294]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.09.15-05.16.48:596][294]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000932s)
+[2018.09.15-05.16.48:597][294]LogAIModule: Creating AISystem for world Main
+[2018.09.15-05.16.48:597][294]LogPlayLevel: PIE: World Init took: (0.000548s)
+[2018.09.15-05.16.48:597][294]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.001565s)
+[2018.09.15-05.16.48:662][294]LogInit: XAudio2 using 'Focusrite USB (Focusrite USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.15-05.16.48:667][294]LogInit: FAudioDevice initialized.
+[2018.09.15-05.16.48:702][294]LogLoad: Game class is 'BP_GameMode_C'
+[2018.09.15-05.16.48:703][294]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2018.09.14-22.16.48
+[2018.09.15-05.16.48:703][294]LogWorld: Bringing up level for play took: 0.000621
+[2018.09.15-05.16.48:705][294]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.119
+[2018.09.15-05.17.01:448][431]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.15-05.17.07:181][ 99]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.15-05.17.07:288][112]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.15-05.17.07:305][112]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.15-05.17.07:305][112]PIE: New page: PIE session: Main (Sep 14, 2018, 3:17:07 PM)
+[2018.09.15-05.17.07:305][112]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.09.15-05.17.07:307][112]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001534s)
+[2018.09.15-05.17.07:307][112]LogAIModule: Creating AISystem for world Main
+[2018.09.15-05.17.07:307][112]LogPlayLevel: PIE: World Init took: (0.000443s)
+[2018.09.15-05.17.07:307][112]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.002057s)
+[2018.09.15-05.17.07:343][112]LogInit: XAudio2 using 'Focusrite USB (Focusrite USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.15-05.17.07:348][112]LogInit: FAudioDevice initialized.
+[2018.09.15-05.17.07:377][112]LogLoad: Game class is 'BP_GameMode_C'
+[2018.09.15-05.17.07:378][112]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2018.09.14-22.17.07
+[2018.09.15-05.17.07:378][112]LogWorld: Bringing up level for play took: 0.000478
+[2018.09.15-05.17.07:379][112]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main 0.555
+[2018.09.15-05.17.30:630][358]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BG)
+[2018.09.15-05.17.34:236][750]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BG)
+[2018.09.15-05.18.08:607][321]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.15-05.18.12:926][720]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.15-05.18.14:255][825]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.15-05.18.14:274][825]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.15-05.18.14:274][825]PIE: New page: PIE session: Main (Sep 14, 2018, 3:18:14 PM)
+[2018.09.15-05.18.14:274][825]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.09.15-05.18.14:275][825]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000928s)
+[2018.09.15-05.18.14:275][825]LogAIModule: Creating AISystem for world Main
+[2018.09.15-05.18.14:275][825]LogPlayLevel: PIE: World Init took: (0.000504s)
+[2018.09.15-05.18.14:275][825]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.001522s)
+[2018.09.15-05.18.14:312][825]LogInit: XAudio2 using 'Focusrite USB (Focusrite USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.15-05.18.14:317][825]LogInit: FAudioDevice initialized.
+[2018.09.15-05.18.14:350][825]LogLoad: Game class is 'BP_GameMode_C'
+[2018.09.15-05.18.14:352][825]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2018.09.14-22.18.14
+[2018.09.15-05.18.14:352][825]LogWorld: Bringing up level for play took: 0.000691
+[2018.09.15-05.18.14:353][825]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.471
+[2018.09.15-05.18.30:927][385]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.15-05.18.37:915][131]LogScript: Warning: Accessed None trying to read property BP_GameMode
+	BP_EnemySpawner_C /Game/Maps/UEDPIE_0_Main.Main:PersistentLevel.BP_EnemySpawner
+	Function /Game/Blueprints/Enemies/BP_EnemySpawner.BP_EnemySpawner_C:ExecuteUbergraph_BP_EnemySpawner:034B
+[2018.09.15-05.18.37:915][131]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property BP_GameMode from function: 'ExecuteUbergraph_BP_EnemySpawner' from node: Branch in graph: EventGraph in object: BP_EnemySpawner with description: Accessed None trying to read property BP_GameMode
+[2018.09.15-05.18.37:915][131]LogScript: Warning: Accessed None trying to read property BP_GameMode
+	BP_EnemySpawner_C /Game/Maps/UEDPIE_0_Main.Main:PersistentLevel.BP_EnemySpawner
+	Function /Game/Blueprints/Enemies/BP_EnemySpawner.BP_EnemySpawner_C:ExecuteUbergraph_BP_EnemySpawner:036A
+[2018.09.15-05.18.37:915][131]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property BP_GameMode from function: 'ExecuteUbergraph_BP_EnemySpawner' from node: Branch in graph: EventGraph in object: BP_EnemySpawner with description: Accessed None trying to read property BP_GameMode
+[2018.09.15-05.18.38:527][204]LogScript: Warning: Accessed None trying to read property BP_GameMode
+	BP_EnemySpawner_C /Game/Maps/UEDPIE_0_Main.Main:PersistentLevel.BP_EnemySpawner
+	Function /Game/Blueprints/Enemies/BP_EnemySpawner.BP_EnemySpawner_C:ExecuteUbergraph_BP_EnemySpawner:034B
+[2018.09.15-05.18.38:527][204]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property BP_GameMode from function: 'ExecuteUbergraph_BP_EnemySpawner' from node: Branch in graph: EventGraph in object: BP_EnemySpawner with description: Accessed None trying to read property BP_GameMode
+[2018.09.15-05.18.38:527][204]LogScript: Warning: Accessed None trying to read property BP_GameMode
+	BP_EnemySpawner_C /Game/Maps/UEDPIE_0_Main.Main:PersistentLevel.BP_EnemySpawner
+	Function /Game/Blueprints/Enemies/BP_EnemySpawner.BP_EnemySpawner_C:ExecuteUbergraph_BP_EnemySpawner:036A
+[2018.09.15-05.18.38:527][204]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property BP_GameMode from function: 'ExecuteUbergraph_BP_EnemySpawner' from node: Branch in graph: EventGraph in object: BP_EnemySpawner with description: Accessed None trying to read property BP_GameMode
+[2018.09.15-05.18.39:532][305]LogScript: Warning: Accessed None trying to read property BP_GameMode
+	BP_EnemySpawner_C /Game/Maps/UEDPIE_0_Main.Main:PersistentLevel.BP_EnemySpawner
+	Function /Game/Blueprints/Enemies/BP_EnemySpawner.BP_EnemySpawner_C:ExecuteUbergraph_BP_EnemySpawner:034B
+[2018.09.15-05.18.39:532][305]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property BP_GameMode from function: 'ExecuteUbergraph_BP_EnemySpawner' from node: Branch in graph: EventGraph in object: BP_EnemySpawner with description: Accessed None trying to read property BP_GameMode
+[2018.09.15-05.18.39:532][305]LogScript: Warning: Accessed None trying to read property BP_GameMode
+	BP_EnemySpawner_C /Game/Maps/UEDPIE_0_Main.Main:PersistentLevel.BP_EnemySpawner
+	Function /Game/Blueprints/Enemies/BP_EnemySpawner.BP_EnemySpawner_C:ExecuteUbergraph_BP_EnemySpawner:036A
+[2018.09.15-05.18.39:532][305]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property BP_GameMode from function: 'ExecuteUbergraph_BP_EnemySpawner' from node: Branch in graph: EventGraph in object: BP_EnemySpawner with description: Accessed None trying to read property BP_GameMode
+[2018.09.15-05.18.40:527][422]LogScript: Warning: Accessed None trying to read property BP_GameMode
+	BP_EnemySpawner_C /Game/Maps/UEDPIE_0_Main.Main:PersistentLevel.BP_EnemySpawner
+	Function /Game/Blueprints/Enemies/BP_EnemySpawner.BP_EnemySpawner_C:ExecuteUbergraph_BP_EnemySpawner:034B
+[2018.09.15-05.18.40:527][422]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property BP_GameMode from function: 'ExecuteUbergraph_BP_EnemySpawner' from node: Branch in graph: EventGraph in object: BP_EnemySpawner with description: Accessed None trying to read property BP_GameMode
+[2018.09.15-05.18.40:527][422]LogScript: Warning: Accessed None trying to read property BP_GameMode
+	BP_EnemySpawner_C /Game/Maps/UEDPIE_0_Main.Main:PersistentLevel.BP_EnemySpawner
+	Function /Game/Blueprints/Enemies/BP_EnemySpawner.BP_EnemySpawner_C:ExecuteUbergraph_BP_EnemySpawner:036A
+[2018.09.15-05.18.40:528][422]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property BP_GameMode from function: 'ExecuteUbergraph_BP_EnemySpawner' from node: Branch in graph: EventGraph in object: BP_EnemySpawner with description: Accessed None trying to read property BP_GameMode
+[2018.09.15-05.18.41:654][556]LogScript: Warning: Accessed None trying to read property BP_GameMode
+	BP_EnemySpawner_C /Game/Maps/UEDPIE_0_Main.Main:PersistentLevel.BP_EnemySpawner
+	Function /Game/Blueprints/Enemies/BP_EnemySpawner.BP_EnemySpawner_C:ExecuteUbergraph_BP_EnemySpawner:034B
+[2018.09.15-05.18.41:654][556]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property BP_GameMode from function: 'ExecuteUbergraph_BP_EnemySpawner' from node: Branch in graph: EventGraph in object: BP_EnemySpawner with description: Accessed None trying to read property BP_GameMode
+[2018.09.15-05.18.41:654][556]LogScript: Warning: Accessed None trying to read property BP_GameMode
+	BP_EnemySpawner_C /Game/Maps/UEDPIE_0_Main.Main:PersistentLevel.BP_EnemySpawner
+	Function /Game/Blueprints/Enemies/BP_EnemySpawner.BP_EnemySpawner_C:ExecuteUbergraph_BP_EnemySpawner:036A
+[2018.09.15-05.18.41:654][556]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property BP_GameMode from function: 'ExecuteUbergraph_BP_EnemySpawner' from node: Branch in graph: EventGraph in object: BP_EnemySpawner with description: Accessed None trying to read property BP_GameMode
+[2018.09.15-05.18.42:653][675]LogScript: Warning: Accessed None trying to read property BP_GameMode
+	BP_EnemySpawner_C /Game/Maps/UEDPIE_0_Main.Main:PersistentLevel.BP_EnemySpawner
+	Function /Game/Blueprints/Enemies/BP_EnemySpawner.BP_EnemySpawner_C:ExecuteUbergraph_BP_EnemySpawner:034B
+[2018.09.15-05.18.42:653][675]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property BP_GameMode from function: 'ExecuteUbergraph_BP_EnemySpawner' from node: Branch in graph: EventGraph in object: BP_EnemySpawner with description: Accessed None trying to read property BP_GameMode
+[2018.09.15-05.18.42:653][675]LogScript: Warning: Accessed None trying to read property BP_GameMode
+	BP_EnemySpawner_C /Game/Maps/UEDPIE_0_Main.Main:PersistentLevel.BP_EnemySpawner
+	Function /Game/Blueprints/Enemies/BP_EnemySpawner.BP_EnemySpawner_C:ExecuteUbergraph_BP_EnemySpawner:036A
+[2018.09.15-05.18.42:653][675]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property BP_GameMode from function: 'ExecuteUbergraph_BP_EnemySpawner' from node: Branch in graph: EventGraph in object: BP_EnemySpawner with description: Accessed None trying to read property BP_GameMode
+[2018.09.15-05.18.43:650][794]LogScript: Warning: Accessed None trying to read property BP_GameMode
+	BP_EnemySpawner_C /Game/Maps/UEDPIE_0_Main.Main:PersistentLevel.BP_EnemySpawner
+	Function /Game/Blueprints/Enemies/BP_EnemySpawner.BP_EnemySpawner_C:ExecuteUbergraph_BP_EnemySpawner:034B
+[2018.09.15-05.18.43:650][794]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property BP_GameMode from function: 'ExecuteUbergraph_BP_EnemySpawner' from node: Branch in graph: EventGraph in object: BP_EnemySpawner with description: Accessed None trying to read property BP_GameMode
+[2018.09.15-05.18.43:650][794]LogScript: Warning: Accessed None trying to read property BP_GameMode
+	BP_EnemySpawner_C /Game/Maps/UEDPIE_0_Main.Main:PersistentLevel.BP_EnemySpawner
+	Function /Game/Blueprints/Enemies/BP_EnemySpawner.BP_EnemySpawner_C:ExecuteUbergraph_BP_EnemySpawner:036A
+[2018.09.15-05.18.43:650][794]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property BP_GameMode from function: 'ExecuteUbergraph_BP_EnemySpawner' from node: Branch in graph: EventGraph in object: BP_EnemySpawner with description: Accessed None trying to read property BP_GameMode
+[2018.09.15-05.18.44:659][914]LogScript: Warning: Accessed None trying to read property BP_GameMode
+	BP_EnemySpawner_C /Game/Maps/UEDPIE_0_Main.Main:PersistentLevel.BP_EnemySpawner
+	Function /Game/Blueprints/Enemies/BP_EnemySpawner.BP_EnemySpawner_C:ExecuteUbergraph_BP_EnemySpawner:034B
+[2018.09.15-05.18.44:659][914]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property BP_GameMode from function: 'ExecuteUbergraph_BP_EnemySpawner' from node: Branch in graph: EventGraph in object: BP_EnemySpawner with description: Accessed None trying to read property BP_GameMode
+[2018.09.15-05.18.44:659][914]LogScript: Warning: Accessed None trying to read property BP_GameMode
+	BP_EnemySpawner_C /Game/Maps/UEDPIE_0_Main.Main:PersistentLevel.BP_EnemySpawner
+	Function /Game/Blueprints/Enemies/BP_EnemySpawner.BP_EnemySpawner_C:ExecuteUbergraph_BP_EnemySpawner:036A
+[2018.09.15-05.18.44:659][914]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property BP_GameMode from function: 'ExecuteUbergraph_BP_EnemySpawner' from node: Branch in graph: EventGraph in object: BP_EnemySpawner with description: Accessed None trying to read property BP_GameMode
+[2018.09.15-05.18.45:659][ 33]LogScript: Warning: Accessed None trying to read property BP_GameMode
+	BP_EnemySpawner_C /Game/Maps/UEDPIE_0_Main.Main:PersistentLevel.BP_EnemySpawner
+	Function /Game/Blueprints/Enemies/BP_EnemySpawner.BP_EnemySpawner_C:ExecuteUbergraph_BP_EnemySpawner:034B
+[2018.09.15-05.18.45:659][ 33]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property BP_GameMode from function: 'ExecuteUbergraph_BP_EnemySpawner' from node: Branch in graph: EventGraph in object: BP_EnemySpawner with description: Accessed None trying to read property BP_GameMode
+[2018.09.15-05.18.45:659][ 33]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property BP_GameMode from function: 'ExecuteUbergraph_BP_EnemySpawner' from node: Branch in graph: EventGraph in object: BP_EnemySpawner with description: Accessed None trying to read property BP_GameMode
+[2018.09.15-05.18.46:657][152]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property BP_GameMode from function: 'ExecuteUbergraph_BP_EnemySpawner' from node: Branch in graph: EventGraph in object: BP_EnemySpawner with description: Accessed None trying to read property BP_GameMode
+[2018.09.15-05.18.46:657][152]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property BP_GameMode from function: 'ExecuteUbergraph_BP_EnemySpawner' from node: Branch in graph: EventGraph in object: BP_EnemySpawner with description: Accessed None trying to read property BP_GameMode
+[2018.09.15-05.18.47:654][246]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property BP_GameMode from function: 'ExecuteUbergraph_BP_EnemySpawner' from node: Branch in graph: EventGraph in object: BP_EnemySpawner with description: Accessed None trying to read property BP_GameMode
+[2018.09.15-05.18.47:654][246]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property BP_GameMode from function: 'ExecuteUbergraph_BP_EnemySpawner' from node: Branch in graph: EventGraph in object: BP_EnemySpawner with description: Accessed None trying to read property BP_GameMode
+[2018.09.15-05.18.48:662][295]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property BP_GameMode from function: 'ExecuteUbergraph_BP_EnemySpawner' from node: Branch in graph: EventGraph in object: BP_EnemySpawner with description: Accessed None trying to read property BP_GameMode
+[2018.09.15-05.18.48:662][295]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property BP_GameMode from function: 'ExecuteUbergraph_BP_EnemySpawner' from node: Branch in graph: EventGraph in object: BP_EnemySpawner with description: Accessed None trying to read property BP_GameMode
+[2018.09.15-05.18.49:653][372]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property BP_GameMode from function: 'ExecuteUbergraph_BP_EnemySpawner' from node: Branch in graph: EventGraph in object: BP_EnemySpawner with description: Accessed None trying to read property BP_GameMode
+[2018.09.15-05.18.49:653][372]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property BP_GameMode from function: 'ExecuteUbergraph_BP_EnemySpawner' from node: Branch in graph: EventGraph in object: BP_EnemySpawner with description: Accessed None trying to read property BP_GameMode
+[2018.09.15-05.18.50:658][446]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property BP_GameMode from function: 'ExecuteUbergraph_BP_EnemySpawner' from node: Branch in graph: EventGraph in object: BP_EnemySpawner with description: Accessed None trying to read property BP_GameMode
+[2018.09.15-05.18.50:658][446]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property BP_GameMode from function: 'ExecuteUbergraph_BP_EnemySpawner' from node: Branch in graph: EventGraph in object: BP_EnemySpawner with description: Accessed None trying to read property BP_GameMode
+[2018.09.15-05.18.51:651][562]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property BP_GameMode from function: 'ExecuteUbergraph_BP_EnemySpawner' from node: Branch in graph: EventGraph in object: BP_EnemySpawner with description: Accessed None trying to read property BP_GameMode
+[2018.09.15-05.18.51:652][562]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property BP_GameMode from function: 'ExecuteUbergraph_BP_EnemySpawner' from node: Branch in graph: EventGraph in object: BP_EnemySpawner with description: Accessed None trying to read property BP_GameMode
+[2018.09.15-05.18.52:656][675]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property BP_GameMode from function: 'ExecuteUbergraph_BP_EnemySpawner' from node: Branch in graph: EventGraph in object: BP_EnemySpawner with description: Accessed None trying to read property BP_GameMode
+[2018.09.15-05.18.52:656][675]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property BP_GameMode from function: 'ExecuteUbergraph_BP_EnemySpawner' from node: Branch in graph: EventGraph in object: BP_EnemySpawner with description: Accessed None trying to read property BP_GameMode
+[2018.09.15-05.18.53:652][787]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property BP_GameMode from function: 'ExecuteUbergraph_BP_EnemySpawner' from node: Branch in graph: EventGraph in object: BP_EnemySpawner with description: Accessed None trying to read property BP_GameMode
+[2018.09.15-05.18.53:652][787]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property BP_GameMode from function: 'ExecuteUbergraph_BP_EnemySpawner' from node: Branch in graph: EventGraph in object: BP_EnemySpawner with description: Accessed None trying to read property BP_GameMode
+[2018.09.15-05.18.54:014][829]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.15-05.18.54:731][914]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property BP_GameMode from function: 'ExecuteUbergraph_BP_EnemySpawner' from node: Branch in graph: EventGraph in object: BP_EnemySpawner with description: Accessed None trying to read property BP_GameMode
+[2018.09.15-05.18.54:731][914]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property BP_GameMode from function: 'ExecuteUbergraph_BP_EnemySpawner' from node: Branch in graph: EventGraph in object: BP_EnemySpawner with description: Accessed None trying to read property BP_GameMode
+[2018.09.15-05.18.55:739][ 13]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property BP_GameMode from function: 'ExecuteUbergraph_BP_EnemySpawner' from node: Branch in graph: EventGraph in object: BP_EnemySpawner with description: Accessed None trying to read property BP_GameMode
+[2018.09.15-05.18.55:739][ 13]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property BP_GameMode from function: 'ExecuteUbergraph_BP_EnemySpawner' from node: Branch in graph: EventGraph in object: BP_EnemySpawner with description: Accessed None trying to read property BP_GameMode
+[2018.09.15-05.18.58:055][212]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.15-05.18.58:072][212]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.15-05.18.58:073][212]PIE: New page: PIE session: Main (Sep 14, 2018, 3:18:58 PM)
+[2018.09.15-05.18.58:073][212]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.09.15-05.18.58:074][212]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000946s)
+[2018.09.15-05.18.58:074][212]LogAIModule: Creating AISystem for world Main
+[2018.09.15-05.18.58:074][212]LogPlayLevel: PIE: World Init took: (0.000452s)
+[2018.09.15-05.18.58:074][212]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.001517s)
+[2018.09.15-05.18.58:109][212]LogInit: XAudio2 using 'Focusrite USB (Focusrite USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.15-05.18.58:114][212]LogInit: FAudioDevice initialized.
+[2018.09.15-05.18.58:152][212]LogLoad: Game class is 'BP_GameMode_C'
+[2018.09.15-05.18.58:157][212]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2018.09.14-22.18.58
+[2018.09.15-05.18.58:158][212]LogWorld: Bringing up level for play took: 0.002174
+[2018.09.15-05.18.58:162][212]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.662
+[2018.09.15-05.19.14:380][791]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.15-05.19.16:658][ 56]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.15-05.19.16:675][ 56]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.15-05.19.16:675][ 56]PIE: New page: PIE session: Main (Sep 14, 2018, 3:19:16 PM)
+[2018.09.15-05.19.16:675][ 56]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Main
+[2018.09.15-05.19.16:676][ 56]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000996s)
+[2018.09.15-05.19.16:677][ 56]LogAIModule: Creating AISystem for world Main
+[2018.09.15-05.19.16:677][ 56]LogPlayLevel: PIE: World Init took: (0.000483s)
+[2018.09.15-05.19.16:677][ 56]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Main.Main to /Game/Maps/UEDPIE_0_Main.Main (0.001606s)
+[2018.09.15-05.19.16:713][ 56]LogInit: XAudio2 using 'Focusrite USB (Focusrite USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.15-05.19.16:719][ 56]LogInit: FAudioDevice initialized.
+[2018.09.15-05.19.16:753][ 56]LogLoad: Game class is 'BP_GameMode_C'
+[2018.09.15-05.19.16:755][ 56]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2018.09.14-22.19.16
+[2018.09.15-05.19.16:755][ 56]LogWorld: Bringing up level for play took: 0.000609
+[2018.09.15-05.19.16:756][ 56]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Main -0.068
+[2018.09.15-05.19.38:978][481]LogUObjectBase: Warning: Object is not registered
+[2018.09.15-05.19.40:268][481]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.900 s
+[2018.09.15-05.19.40:268][481]LogOutputDevice: Error: === Handled ensure: ===
+[2018.09.15-05.19.40:268][481]LogOutputDevice: Error: 
+[2018.09.15-05.19.40:268][481]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1108]
+[2018.09.15-05.19.40:268][481]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.09.15-05.19.40:268][481]LogOutputDevice: Error: Stack: 
+[2018.09.15-05.19.40:268][481]LogOutputDevice: Error: [Callstack] 0x000000003F7CB706 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.15-05.19.40:268][481]LogOutputDevice: Error: [Callstack] 0x000000003F52AE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.09.15-05.19.40:268][481]LogOutputDevice: Error: [Callstack] 0x000000003F53ECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.09.15-05.19.40:268][481]LogOutputDevice: Error: [Callstack] 0x000000003B923DF6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.09.15-05.19.40:268][481]LogOutputDevice: Error: [Callstack] 0x0000000028A8B2A8 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.09.15-05.19.40:268][481]LogOutputDevice: Error: [Callstack] 0x0000000027E2C22A UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.09.15-05.19.40:268][481]LogOutputDevice: Error: [Callstack] 0x0000000027CB77AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.09.15-05.19.40:268][481]LogOutputDevice: Error: [Callstack] 0x0000000027CBAEC9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.09.15-05.19.40:268][481]LogOutputDevice: Error: [Callstack] 0x0000000027DF6E65 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.09.15-05.19.40:268][481]LogOutputDevice: Error: [Callstack] 0x000000003EE66057 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.15-05.19.40:268][481]LogOutputDevice: Error: [Callstack] 0x000000003EE6BB51 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.15-05.19.40:268][481]LogOutputDevice: Error: [Callstack] 0x000000003F09C253 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.15-05.19.40:268][481]LogOutputDevice: Error: [Callstack] 0x000000003EEC0475 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.15-05.19.40:268][481]LogOutputDevice: Error: [Callstack] 0x000000003EE98360 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.15-05.19.40:268][481]LogOutputDevice: Error: [Callstack] 0x000000003EE8B197 UE4Editor-Slate.dll!UnknownFunction []
+[2018.09.15-05.19.40:268][481]LogOutputDevice: Error: [Callstack] 0x000000007424E4EE UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.15-05.19.40:268][481]LogOutputDevice: Error: [Callstack] 0x0000000074241B78 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.15-05.19.40:268][481]LogOutputDevice: Error: [Callstack] 0x000000007425052C UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.15-05.19.40:268][481]LogOutputDevice: Error: [Callstack] 0x000000007423D679 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.15-05.19.40:268][481]LogOutputDevice: Error: [Callstack] 0x0000000093E96CC1 USER32.dll!UnknownFunction []
+[2018.09.15-05.19.40:268][481]LogOutputDevice: Error: [Callstack] 0x0000000093E96693 USER32.dll!UnknownFunction []
+[2018.09.15-05.19.40:268][481]LogOutputDevice: Error: [Callstack] 0x0000000074251666 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.09.15-05.19.40:268][481]LogOutputDevice: Error: [Callstack] 0x0000000039FD5475 UE4Editor.exe!UnknownFunction []
+[2018.09.15-05.19.40:268][481]LogOutputDevice: Error: [Callstack] 0x0000000039FE6BD0 UE4Editor.exe!UnknownFunction []
+[2018.09.15-05.19.40:268][481]LogOutputDevice: Error: [Callstack] 0x0000000039FE6C4A UE4Editor.exe!UnknownFunction []
+[2018.09.15-05.19.40:268][481]LogOutputDevice: Error: [Callstack] 0x0000000039FF4177 UE4Editor.exe!UnknownFunction []
+[2018.09.15-05.19.40:268][481]LogOutputDevice: Error: [Callstack] 0x0000000039FF5B87 UE4Editor.exe!UnknownFunction []
+[2018.09.15-05.19.40:268][481]LogOutputDevice: Error: [Callstack] 0x0000000093CD3034 KERNEL32.DLL!UnknownFunction []
+[2018.09.15-05.19.40:268][481]LogOutputDevice: Error: [Callstack] 0x00000000968A1461 ntdll.dll!UnknownFunction []
+[2018.09.15-05.19.40:268][481]LogOutputDevice: Error: 
+[2018.09.15-05.19.40:270][481]LogStats:                SubmitErrorReport -  0.000 s
